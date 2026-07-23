@@ -51,6 +51,7 @@ Add community plugins to [PLUGINS.md](./PLUGINS.md) under the best **Community**
 | Email & Forms | Mailers, email providers |
 | Commerce | Store / checkout |
 | Engagement & Social | Ratings, sharing, likes |
+| Media & Galleries | Photo galleries, media pickers |
 | Internationalization | i18n / locales |
 | Plugin Suites | Multi-plugin monorepos / catalogs |
 
