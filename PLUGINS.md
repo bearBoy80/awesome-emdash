@@ -42,10 +42,10 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 
 - [SerpDelta](https://github.com/SerpDelta/emdash-plugin) - Google Search Console tracking for ranking changes ([marketplace](https://emdashcms.org/plugins/serpdelta)) / Google Search Console 排名变化追踪 · ★0 · forks 0 · updated 2026-04-09
 - [emdash-analytics-plugin](https://github.com/yourbright-jp/emdash-analytics-plugin) - Google Search Console + GA4 analytics with opportunity scoring / Search Console + GA4 分析与内容机会评分 · ★0 · forks 0 · updated 2026-07-24
-- [em-content-insights](https://github.com/facuzarate04/em-content-insights) - Privacy-first post analytics (views, read rate, time on page, referrers) / 隐私优先的文章分析（浏览、阅读率、停留、来源） · ★3 · forks 0 · updated 2026-04-05
+- [em-content-insights](https://github.com/facuzarate04/em-content-insights) - Privacy-first post analytics (views, read rate, time on page, referrers) / 隐私优先的文章分析（浏览、阅读率、停留、来源） · ★4 · forks 0 · updated 2026-04-05
 - [em-analytics-hub](https://github.com/facuzarate04/em-analytics-hub) - Privacy-first analytics with dashboards, funnels, goals, and campaigns / 隐私优先分析（看板、漏斗、目标与活动） · ★1 · forks 0 · updated 2026-04-18
-- [emdash-plugin-analytics](https://github.com/MosierData/emdash-plugin-analytics) - GTM, GA4, Search Console, UTM attribution, and call tracking / GTM、GA4、Search Console、UTM 归因与来电追踪 · ★7 · forks 0 · updated 2026-04-10
-- [emdash-plugin-seo](https://github.com/jdevalk/emdash-plugin-seo) - SEO: meta tags, Open Graph, canonical URLs, robots, JSON-LD / SEO：meta、OG、canonical、robots、JSON-LD · ★13 · forks 2 · updated 2026-06-18
+- [emdash-plugin-analytics](https://github.com/MosierData/emdash-plugin-analytics) - GTM, GA4, Search Console, UTM attribution, and call tracking / GTM、GA4、Search Console、UTM 归因与来电追踪 · ★8 · forks 0 · updated 2026-04-10
+- [emdash-plugin-seo](https://github.com/jdevalk/emdash-plugin-seo) - SEO: meta tags, Open Graph, canonical URLs, robots, JSON-LD / SEO：meta、OG、canonical、robots、JSON-LD · ★14 · forks 2 · updated 2026-06-18
 
 ### Email & Forms / 邮件与表单
 
@@ -66,7 +66,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 ### Media & Galleries / 媒体与图库
 
 - [emdash-plugin-gallery-images](https://github.com/marcusbellamyshaw-cell/emdash-plugin-gallery-images) - Multi-image photo galleries with media library picker / 多图相册，支持媒体库选择器 · ★4 · forks 0 · updated 2026-07-24
-- [emdash-plugin-modern-images](https://github.com/adrianoamalfi/emdash-plugin-modern-images) - WebP/AVIF conversion, responsive srcset, caching, and LCP preload / WebP/AVIF 转换、响应式 srcset、缓存与 LCP preload · ★3 · forks 0 · updated 2026-07-24
+- [emdash-plugin-modern-images](https://github.com/adrianoamalfi/emdash-plugin-modern-images) - WebP/AVIF conversion, responsive srcset, caching, and LCP preload / WebP/AVIF 转换、响应式 srcset、缓存与 LCP preload · ★4 · forks 0 · updated 2026-07-25
 
 ### Internationalization / 国际化
 
