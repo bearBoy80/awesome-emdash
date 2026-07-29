@@ -11,6 +11,7 @@ EmDash is a full-stack TypeScript CMS that aims to be the spiritual successor to
 - [Official Resources](#official-resources--官方资源)
 - [Templates](#templates--模板)
 - [Plugins](#plugins--插件)
+- [Tools & Tooling](#tools--tooling--工具)
 - [Tutorials & Guides](#tutorials--guides--教程与指南)
 - [Videos](#videos--视频)
 - [Examples & Demos](#examples--demos--示例与演示)
@@ -25,6 +26,7 @@ EmDash is a full-stack TypeScript CMS that aims to be the spiritual successor to
 - [npm Organization](https://www.npmjs.com/org/emdash-cms) - Official packages / 官方包
 - [EmDash Website](https://emdashcms.com/) - Project homepage / 项目官网
 - [Plugin Development Guide](https://docs.emdashcms.com/plugins/creating-plugins/your-first-plugin/) - Official guide to building sandboxed plugins / 官方沙箱插件开发指南
+- [wp-emdash](https://github.com/emdash-cms/wp-emdash) - Official plugins to help transition from WordPress to EmDash / 官方 WordPress → EmDash 迁移辅助插件
 
 ## Templates / 模板
 
@@ -45,6 +47,20 @@ PRs welcome / 欢迎投稿 — see [TEMPLATES.md](./TEMPLATES.md) and [CONTRIBUT
 - [emdashcms.org Marketplace](https://emdashcms.org) - Unofficial community marketplace for plugins and themes / 非官方社区插件与主题市场
 
 PRs welcome / 欢迎投稿 — see [PLUGINS.md](./PLUGINS.md) and [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+## Tools & Tooling / 工具
+
+- [emdash-docker](https://github.com/MarianSEO/emdash-docker) - Run EmDash locally with Docker (blog stack in a few commands) / Docker 本地跑 EmDash
+- [docker-emdash](https://github.com/jstgnkl/docker-emdash) - Docker image for emdash-cms / EmDash Docker 镜像
+- [EmdashDeploy](https://github.com/web-casa/EmdashDeploy) - Interactive VPS installer: Docker/Podman, Caddy HTTPS, backup/restore / VPS 交互安装（Docker/Podman、Caddy、备份恢复）
+- [emdash-claude-plugin](https://github.com/EngDawood/emdash-claude-plugin) - Claude Code plugin: skills and agents for Astro + Cloudflare EmDash sites / Claude Code 插件（EmDash 站点构建技能与 Agent）
+- [emdash-skills](https://github.com/OziNetworkVN/emdash-skills) - Skill library and workflow guide for building EmDash with Claude / 用 Claude 构建 EmDash 的技能库与工作流
+- [emdash-akari](https://github.com/bnomei/emdash-akari) - Agent-focused discovery CLI for content targets and nested JSON / 面向 Agent 的内容发现 CLI
+- [emdash-template-switcher](https://github.com/pk1983/emdash-template-switcher) - Admin-switchable templates with a shadcn-style CLI / 后台可切换模板 + CLI
+- [emdash-astro-sidecar](https://github.com/Ola-Turmo/emdash-astro-sidecar) - Astro sidecar utilities, themes, and plugins / Astro 侧车工具、主题与插件
+- [emdash-render](https://github.com/awesomeem/emdash-render) - Direct-D1 reader + Portable Text renderer for Hono/Workers / D1 直读 + Portable Text 渲染（Hono/Workers）
+
+PRs welcome / 欢迎投稿.
 
 ## Tutorials & Guides / 教程与指南
 
@@ -79,6 +95,7 @@ PRs welcome / 欢迎投稿.
 
 ## Migration from WordPress / 从 WordPress 迁移
 
+- [wp-emdash](https://github.com/emdash-cms/wp-emdash) - Official transition helpers from WordPress to EmDash / 官方 WordPress → EmDash 过渡插件
 - [Porting WordPress Themes Guide](https://docs.emdashcms.com/themes/porting-wp-themes/) - Convert PHP themes to Astro / 将主题移植为 Astro
 - [Porting WordPress Plugins Guide](https://docs.emdashcms.com/migration/porting-plugins/) - Rewrite plugins in TypeScript / 将插件改写为 TypeScript
 - [WordPress Import Wizard](https://docs.emdashcms.com/migration/from-wordpress/) - Built-in WXR / REST / WordPress.com import / 内置导入向导

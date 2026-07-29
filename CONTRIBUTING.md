@@ -48,11 +48,15 @@ Add community plugins to [PLUGINS.md](./PLUGINS.md) under the best **Community**
 | Category | Examples |
 | --- | --- |
 | Analytics & SEO | Search Console, GA4, meta/OG/JSON-LD |
-| Email & Forms | Mailers, email providers |
-| Commerce | Store / checkout |
-| Engagement & Social | Ratings, sharing, likes |
-| Media & Galleries | Photo galleries, media pickers |
+| Email & Forms | Mailers, email providers, form builders |
+| Commerce | Store / checkout / inventory |
+| Engagement & Social | Ratings, sharing, likes, campaigns |
+| Media, Code & Galleries | Photo galleries, code blocks, 3D |
+| Content, Fields & Editor | Field widgets, blocks, TOC, related content |
+| Accessibility, Privacy & Security | Cookie consent, a11y, CAPTCHA, moderation |
 | Internationalization | i18n / locales |
+| Integrations & Notifications | Slack, SMS, backup, RSS |
+| Learning & Verticals | LMS, events, industry-specific |
 | Plugin Suites | Multi-plugin monorepos / catalogs |
 
 If nothing fits, add a new category or open an issue.
