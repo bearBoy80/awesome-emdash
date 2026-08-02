@@ -47,19 +47,20 @@ Add community plugins to [PLUGINS.md](./PLUGINS.md) under the best **Community**
 
 | Category | Examples |
 | --- | --- |
-| Analytics & SEO | Search Console, GA4, meta/OG/JSON-LD |
-| Email & Forms | Mailers, email providers, form builders |
-| Commerce | Store / checkout / inventory |
-| Engagement & Social | Ratings, sharing, likes, campaigns |
-| Media, Code & Galleries | Photo galleries, code blocks, 3D |
-| Content, Fields & Editor | Field widgets, blocks, TOC, related content |
-| Accessibility, Privacy & Security | Cookie consent, a11y, CAPTCHA, moderation |
-| Internationalization | i18n / locales |
-| Integrations & Notifications | Slack, SMS, backup, RSS |
-| Learning & Verticals | LMS, events, industry-specific |
-| Plugin Suites | Multi-plugin monorepos / catalogs |
+| Analytics & SEO / 分析与 SEO | Search Console, GA4, meta/OG/JSON-LD |
+| Email & Forms / 邮件与表单 | Mailers, email providers, form builders |
+| Commerce / 电商 | Store / checkout / inventory |
+| Engagement & Social / 互动与社交 | Ratings, sharing, likes, campaigns |
+| Media, Code & Galleries / 媒体与图库 | Photo galleries, code blocks, 3D |
+| Content, Fields & Editor / 内容、字段与编辑器 | Field widgets, blocks, TOC, related content |
+| Accessibility, Privacy & Security / 无障碍、隐私与安全 | Cookie consent, a11y, CAPTCHA, moderation |
+| Internationalization / 国际化 | i18n / locales |
+| Integrations & Notifications / 集成与通知 | Slack, SMS, backup, RSS |
+| Learning & Verticals / 学习与垂直领域 | LMS, events, industry-specific |
+| Auth & Identity / 认证与身份 | Login providers, membership auth methods |
+| Plugin Suites / 插件合集 | Multi-plugin monorepos / catalogs |
 
-If nothing fits, add a new category or open an issue.
+If nothing fits, **add a new category** under Community (bilingual `### English / 中文` heading when possible), put the entry there, and add the category to the table above. Prefer a domain-level name that can hold more than one project. Do not force-fit into an unrelated section.
 
 Include:
 
@@ -71,7 +72,21 @@ Official / first-party plugins belong under **Official** (synced from `packages/
 
 ## Templates / 模板与主题
 
-Add community templates or themes to [TEMPLATES.md](./TEMPLATES.md) under **Community Templates**.
+Add community templates or themes to [TEMPLATES.md](./TEMPLATES.md) under **Community Templates**, in the best **category** (`###` heading):
+
+| Category | Examples |
+| --- | --- |
+| Catalogs & Marketplaces / 模板目录与市场 | Theme directories, template packs, switchers |
+| Blog & Content / 博客与内容 | Blog, magazine, docs starters |
+| Marketing & Landing / 营销与落地页 | Marketing / landing starters |
+| Portfolio & Personal / 作品集与个人站 | Portfolio, personal sites |
+| Commerce & Business / 电商与商业 | Shop, services, real estate, booking |
+| Vertical / Industry / 垂直行业 | Niche / industry starters (TCG, media, …) |
+| Themes / 主题 | Visual themes (Bootstrap, minimal, …) |
+| Deploy & Stack Starters / 部署与技术栈脚手架 | Alchemy, special deploy stacks, unusual runtimes |
+| Multi-template packs / 多模板合集 | Orgs shipping many templates |
+
+If nothing fits, **add a new category** under Community Templates (same bilingual `###` style), put the entry there, and add the category to this table. Do not force-fit into an unrelated section.
 
 Official starters stay under **Official Templates** (Blog / Marketing / Portfolio / Starter & Blank / Reference Sites).
 

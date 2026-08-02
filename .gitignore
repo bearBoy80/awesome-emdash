@@ -38,4 +38,9 @@ temp/
 .cache/
 
 # Local agent / tool noise (keep project skills under .grok/skills tracked)
-.grok/
+.grok/sessions/
+.grok/cache/
+/.grok
+/.claude
+/.agents
+skills-lock.json

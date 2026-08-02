@@ -59,6 +59,10 @@ PRs welcome / 欢迎投稿 — see [PLUGINS.md](./PLUGINS.md) and [CONTRIBUTING.
 - [emdash-template-switcher](https://github.com/pk1983/emdash-template-switcher) - Admin-switchable templates with a shadcn-style CLI / 后台可切换模板 + CLI
 - [emdash-astro-sidecar](https://github.com/Ola-Turmo/emdash-astro-sidecar) - Astro sidecar utilities, themes, and plugins / Astro 侧车工具、主题与插件
 - [emdash-render](https://github.com/awesomeem/emdash-render) - Direct-D1 reader + Portable Text renderer for Hono/Workers / D1 直读 + Portable Text 渲染（Hono/Workers）
+- [emdash-taki](https://github.com/bnomei/emdash-taki) - HTML head waterfall renderer and dynamic helpers for EmDash / Astro / Cloudflare / HTML head 瀑布渲染与动态助手
+- [jdevalk/skills](https://github.com/jdevalk/skills) - Agent skills for GitHub, WordPress, EmDash plugins, Astro, and SEO / GitHub / WordPress / EmDash / Astro / SEO Agent 技能
+- [obsidian-pensieve-publisher](https://github.com/deathemperor/obsidian-pensieve-publisher) - Obsidian plugin: publish notes to EmDash CMS (+ Facebook cross-post) / Obsidian 插件：发布笔记到 EmDash（可同步 Facebook）
+- [hatena-to-emdash](https://github.com/ochanuco/hatena-to-emdash) - CLI: convert Hatena Blog MT export to EmDash-oriented Markdown / CLI：はてな博客导出转 EmDash Markdown
 
 PRs welcome / 欢迎投稿.
 
@@ -67,6 +71,7 @@ PRs welcome / 欢迎投稿.
 - [EmDash CMS by Cloudflare — the open-source TypeScript successor to WordPress](https://wppoland.com/en/emdash-cloudflare-open-source-cms-wordpress-successor-2026/) - In-depth analysis of architecture, security, and WordPress implications / 深度分析：架构、安全与对 WordPress 的影响
 - [A Full-Stack TypeScript CMS Built on Astro + Cloudflare](https://github.com/emdash-cms/emdash) - Project overview on GitHub / GitHub 项目总览
 - [Introducing EmDash — WordPress Plugin Security Rebuilt](https://blog.cloudflare.com/emdash-wordpress/) - Official Cloudflare announcement / 官方介绍
+- [emdash-tutorial](https://github.com/maxali/emdash-tutorial) - Editorial developer tutorial for EmDash CMS (Cloudflare Workers) / EmDash 开发者教程站（Cloudflare Workers）
 
 PRs welcome / 欢迎投稿.
 
@@ -90,6 +95,8 @@ pnpm --filter emdash-demo seed && pnpm --filter emdash-demo dev
 ```
 
 Admin UI / 后台地址：`http://localhost:4321/_emdash/admin`
+
+- [awesomeem/demo](https://github.com/awesomeem/demo) - One-click Cloudflare demo for the awesomeem ecosystem (Hono + D1 + EmDash-style content) / awesomeem 生态一键 Cloudflare 演示（Hono + D1）
 
 PRs welcome / 欢迎投稿.
 
