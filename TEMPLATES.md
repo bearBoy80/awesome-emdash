@@ -68,9 +68,9 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 ## Community Templates / 社区模板
 
 - [Community Themes on emdashcms.org](https://emdashcms.org/themes) ([chrisjohnleah/emdashcms-org](https://github.com/chrisjohnleah/emdashcms-org)) - Unofficial theme catalog (not affiliated with Cloudflare / EmDash) / 非官方主题目录（与 Cloudflare / EmDash 官方无关） · ★3 · forks 0 · updated 2026-06-27
-- [emdash-templates (Majestic Labs)](https://github.com/majesticlabs-dev/emdash-templates) - Community-maintained EmDash templates by Majestic Labs / Majestic Labs 维护的社区模板集 · ★0 · forks 0 · updated 2026-07-13
+- [emdash-templates (Majestic Labs)](https://github.com/majesticlabs-dev/emdash-templates) - Community-maintained EmDash templates by Majestic Labs / Majestic Labs 维护的社区模板集 · ★0 · forks 0 · updated 2026-07-15
 - [emdash-template-switcher](https://github.com/pk1983/emdash-template-switcher) - Live admin-switchable site templates (shadcn-style `init` + `add` CLI) / 后台可切换站点模板（类 shadcn 的 `init` + `add` CLI） · ★0 · forks 0 · updated 2026-07-11
-- [astro-emdash-sqlite-r2-starter](https://github.com/milzamsz/astro-emdash-sqlite-r2-starter) - Self-hostable marketing + blog + docs (SQLite + R2), typed pages, FTS, SEO / 可自托管的营销 + 博客 + 文档站（SQLite + R2，含类型化页面、全文搜索与 SEO） · ★14 · forks 2 · updated 2026-06-28
+- [astro-emdash-sqlite-r2-starter](https://github.com/milzamsz/astro-emdash-sqlite-r2-starter) - Self-hostable marketing + blog + docs (SQLite + R2), typed pages, FTS, SEO / 可自托管的营销 + 博客 + 文档站（SQLite + R2，含类型化页面、全文搜索与 SEO） · ★14 · forks 2 · updated 2026-08-03
 - [mise](https://github.com/mo3moha/mise) - Reservation / booking template: Astro 6 + Workers + D1, i18n, email flow / 预订 / 预约模板：Astro 6 + Workers + D1，多语言与邮件流程 · ★5 · forks 0 · updated 2026-04-05
 - [emdash_property_web_builder](https://github.com/RealEstateWebTools/emdash_property_web_builder) - Real estate website builder on EmDash / 基于 EmDash 的房产建站工具 · ★7 · forks 1 · updated 2026-08-02
 - [template-marketing](https://github.com/dinkuskit/template-marketing) - Marketing-site starter / 营销站起步模板 · ★0 · forks 0 · updated 2026-07-23
@@ -79,10 +79,10 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [kultusblend blog](https://github.com/kultusblend/emdash-template-blog) - Blog starter for Cloudflare Workers / Cloudflare Workers 博客起步模板 · ★0 · forks 0 · updated 2026-05-24
 - [kultusblend marketing](https://github.com/kultusblend/emdash-template-marketing) - Marketing starter for Cloudflare Workers / Cloudflare Workers 营销起步模板 · ★0 · forks 0 · updated 2026-05-24
 - [kultusblend portfolio](https://github.com/kultusblend/emdash-template-portfolio) - Portfolio starter for Cloudflare Workers / Cloudflare Workers 作品集起步模板 · ★0 · forks 0 · updated 2026-05-24
-- [emdash-bootstrap-theme](https://github.com/gabrielepiccinnu/emdash-bootstrap-theme) - Bootstrap 5 theme for EmDash / EmDash 的 Bootstrap 5 主题 · ★0 · forks 0 · updated 2026-04-06
+- [emdash-bootstrap-theme](https://github.com/gabrielepiccinnu/emdash-bootstrap-theme) - Bootstrap 5 theme for EmDash / EmDash 的 Bootstrap 5 主题 · ★0 · forks 0 · updated 2026-06-02
 - [emdash-theme-minimal-blog](https://github.com/nozo-moto/emdash-theme-minimal-blog) - Minimal blog theme / 极简博客主题 · ★0 · forks 0 · updated 2026-04-08
 - [tcg-emdash-starter](https://github.com/KURTEcl/tcg-emdash-starter) - Starter for TCG players: decklists and tournament reports / 面向 TCG 玩家的起步模板（卡组列表与赛事报告） · ★0 · forks 0 · updated 2026-07-19
-- [app-emdash (Quant Cloud)](https://github.com/quantcdn-templates/app-emdash) - EmDash CMS template for Quant Cloud / Quant Cloud 版 EmDash 模板 · ★0 · forks 0 · updated 2026-04-02
+- [app-emdash (Quant Cloud)](https://github.com/quantcdn-templates/app-emdash) - EmDash CMS template for Quant Cloud / Quant Cloud 版 EmDash 模板 · ★0 · forks 0 · updated 2026-07-27
 - [PhimDash](https://github.com/xxmisaoxx/PhimDash) - Online movie-watching theme (KKPhim API, HLS player, Workers-ready) / 在线观影主题（KKPhim API、HLS 播放器、适配 Workers） · ★0 · forks 0 · updated 2026-07-28
 - [awebsomestuff/emdash-template-magazine](https://github.com/awebsomestuff/emdash-template-magazine) - Magazine / digital newspaper template / 杂志 / 数字报纸模板 · ★0 · forks 0 · updated 2026-04-05
 - [awebsomestuff/emdash-template-event](https://github.com/awebsomestuff/emdash-template-event) - Event / conference template / 活动 / 会议模板 · ★0 · forks 0 · updated 2026-04-05
@@ -100,7 +100,7 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [awebsomestuff/emdash-template-blog-pro](https://github.com/awebsomestuff/emdash-template-blog-pro) - Feature-rich blog template (Cloudflare Workers + D1 + R2) / 功能丰富的博客模板（Cloudflare Workers + D1 + R2） · ★0 · forks 0 · updated 2026-04-02
 - [awebsomestuff/emdash-template-docs](https://github.com/awebsomestuff/emdash-template-docs) - Documentation template for products, APIs, and open-source projects / 产品、API 与开源项目文档模板 · ★0 · forks 0 · updated 2026-04-03
 - [Star-Lite Docs](https://github.com/gruntlord5/star-lite-docs) - Starlight-style docs experience powered by EmDash (visual editing) / 类 Starlight 的文档体验（由 EmDash 驱动，支持可视化编辑） · ★4 · forks 0 · updated 2026-05-10
-- [emdash-templates-aio](https://github.com/taicv/emdash-templates-aio) - All-in-one CMS template: admin, marketing pages, blocks, and blog / 一站式模板：后台、营销页、区块与博客 · ★0 · forks 0 · updated 2026-04-02
+- [emdash-templates-aio](https://github.com/taicv/emdash-templates-aio) - All-in-one CMS template: admin, marketing pages, blocks, and blog / 一站式模板：后台、营销页、区块与博客 · ★0 · forks 0 · updated 2026-04-11
 - [cloudflare-free-emdash-starter](https://github.com/saviour123/cloudflare-free-emdash-starter) - Minimal EmDash blog on Cloudflare Workers + D1 + R2 / Cloudflare Workers + D1 + R2 极简 EmDash 博客 · ★0 · forks 0 · updated 2026-06-06
 - [emdash-astro-template-1](https://github.com/Begin-Source/emdash-astro-template-1) - EmDash blog template for Cloudflare Workers + D1 + R2 / EmDash 博客模板（Cloudflare Workers + D1 + R2） · ★0 · forks 0 · updated 2026-04-13
 
