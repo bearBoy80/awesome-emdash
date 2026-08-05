@@ -54,6 +54,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [enhancely-emdash](https://github.com/enhancely/enhancely-emdash) - JSON-LD schema plugin with AI-powered structured data / AI 驱动的 JSON-LD 结构化数据插件 · ★0 · forks 0 · updated 2026-06-21
 - [pixelseo-emdash-plugin](https://github.com/codebiwan/pixelseo-emdash-plugin) - AI-generated SEO images via pixelseo.ai into the media library / 经 pixelseo.ai 生成 SEO 图片并写入媒体库 · ★0 · forks 0 · updated 2026-04-17
 - [plugin-ai-discovery](https://github.com/awesomeem/plugin-ai-discovery) - llms.txt, AI manifest, and JSON-LD for AI discovery (WIP) / 面向 AI 发现：llms.txt、AI manifest、JSON-LD（开发中） · ★0 · forks 0 · updated 2026-04-14
+- [emdash-human-sitemap](https://github.com/masonjames/emdash-human-sitemap) - Human-readable sitemap block and Astro component (not XML crawler sitemaps) / 面向读者的可读站点地图区块与 Astro 组件（非 XML）
 
 ### Email & Forms / 邮件与表单
 
@@ -137,6 +138,10 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [EmCanvas](https://github.com/emcanvas/emcanvas) - Visual page builder for EmDash CMS / EmDash 可视化页面构建器 · ★1 · forks 0 · updated 2026-04-23
 - [Galley](https://github.com/raybasedev/galley) - Runtime-authored Liquid block templates for EmDash / Astro / 支持运行时编写的 Liquid 区块模板 · ★0 · forks 0 · updated 2026-06-27
 - [plugin-rotating-tagline](https://github.com/jms42/plugin-rotating-tagline) - Rotates the site tagline from a configurable list / 按配置列表轮换站点标语 · ★0 · forks 0 · updated 2026-04-27
+- [emdash-page-list](https://github.com/masonjames/emdash-page-list) - Collection- and menu-backed page lists (Portable Text block + Astro component) / 基于集合与菜单的页面列表（Portable Text 区块 + Astro 组件）
+- [emdash-reading-time (MasonJames)](https://github.com/masonjames/emdash-reading-time) - Reading-time badge: Portable Text block, Astro component, and sitewide defaults / 阅读时长徽章：Portable Text 区块、Astro 组件与全站默认值
+- [emdash-simple-history](https://github.com/masonjames/emdash-simple-history) - Lightweight content activity history (admin page + dashboard widget) / 轻量内容变更历史（后台页 + 仪表盘小组件）
+- [hello-dolly-emdash](https://github.com/hetfirma/hello-dolly-emdash) - Hello Dolly-style demo plugin: dashboard widget and settings page / Hello Dolly 风格示例插件：仪表盘小组件与设置页
 
 ### Accessibility, Privacy & Security / 无障碍、隐私与安全
 
@@ -195,6 +200,11 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [lathekit](https://github.com/lathekit/lathekit) - Open-source EmDash plugins (AGPL-3.0) / 开源 EmDash 插件集（AGPL-3.0） · ★0 · forks 0 · updated 2026-04-20
 - [timhodge/emdash-plugins](https://github.com/timhodge/emdash-plugins) - Email providers, integrations, and utilities / 邮件提供商、集成与实用工具 · ★0 · forks 0 · empty
 - [piiiico/emdash-plugins](https://github.com/piiiico/emdash-plugins) - Commitment Relay and Publisher Trust Profile / Commitment Relay 与发布者信任画像 · ★0 · forks 0 · updated 2026-04-10
+- [emdash-star-plugins](https://github.com/ynaoak/emdash-star-plugins) - EmDash Star suite: analytics injection, broken-link checker, Resend email, spam guard / EmDash Star 合集：分析注入、死链检查、Resend 邮件、垃圾评论防护
+  - [analytics-injector](https://github.com/ynaoak/emdash-star-plugins/tree/main/analytics-injector) - GA4 / GTM and custom head/body code injection / GA4 / GTM 与自定义 head/body 代码注入
+  - [broken-link-checker](https://github.com/ynaoak/emdash-star-plugins/tree/main/broken-link-checker) - Crawl content for broken links on a schedule / 定时巡检内容中的死链
+  - [email-resend](https://github.com/ynaoak/emdash-star-plugins/tree/main/email-resend) - Resend transport for the `email:deliver` hook / Resend 邮件传输（`email:deliver`）
+  - [spam-guard](https://github.com/ynaoak/emdash-star-plugins/tree/main/spam-guard) - Heuristic + LLM comment spam protection / 启发式 + LLM 评论反垃圾
 
 PRs welcome / 欢迎投稿.
 

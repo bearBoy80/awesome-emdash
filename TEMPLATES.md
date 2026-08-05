@@ -113,6 +113,7 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [awebsomestuff/emdash-template-portfolio](https://github.com/awebsomestuff/emdash-template-portfolio) - Minimal portfolio template for creative work (Cloudflare Workers) / 面向创意作品的极简作品集模板（Cloudflare Workers） · ★0 · forks 0 · updated 2026-04-03
 - [awebsomestuff/emdash-template-personal](https://github.com/awebsomestuff/emdash-template-personal) - Minimalist personal portfolio and CV template / 极简个人作品集与简历模板 · ★0 · forks 0 · updated 2026-04-03
 - [emdash-themes (saviour123)](https://github.com/saviour123/emdash-themes) - EmDash portfolio template for Cloudflare Workers / EmDash 作品集模板（Cloudflare Workers） · ★0 · forks 0 · updated 2026-08-04
+- [crafted](https://github.com/adpena/crafted) - Portfolio and campaign action-page engine on EmDash + Cloudflare / EmDash + Cloudflare 作品集与活动行动页引擎
 
 ### Commerce & Business / 电商与商业
 
@@ -128,6 +129,7 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 
 - [emdash-alchemy-template](https://github.com/jcheese1/emdash-alchemy-template) - EmDash + Alchemy + Cloudflare Workers template / EmDash + Alchemy + Cloudflare Workers 模板 · ★0 · forks 0 · updated 2026-04-21
 - [emdash-templates-aio-cloudflare](https://github.com/taicv/emdash-templates-aio-cloudflare) - All-in-one EmDash template preconfigured for Cloudflare deploy / 预配置 Cloudflare 部署的一站式 EmDash 模板 · ★0 · forks 0 · updated 2026-04-02
+- [emdash-starter (traone)](https://github.com/traone/emdash-starter) - General-purpose Cloudflare Workers starter (posts, pages, tags; tinywind base) / 通用 Cloudflare Workers 起步模板（文章/页面/标签；tinywind 基底）
 
 PRs welcome / 欢迎投稿.
 

@@ -63,6 +63,7 @@ PRs welcome / 欢迎投稿 — see [PLUGINS.md](./PLUGINS.md) and [CONTRIBUTING.
 - [jdevalk/skills](https://github.com/jdevalk/skills) - Agent skills for GitHub, WordPress, EmDash plugins, Astro, and SEO / GitHub / WordPress / EmDash / Astro / SEO Agent 技能
 - [obsidian-pensieve-publisher](https://github.com/deathemperor/obsidian-pensieve-publisher) - Obsidian plugin: publish notes to EmDash CMS (+ Facebook cross-post) / Obsidian 插件：发布笔记到 EmDash（可同步 Facebook）
 - [hatena-to-emdash](https://github.com/ochanuco/hatena-to-emdash) - CLI: convert Hatena Blog MT export to EmDash-oriented Markdown / CLI：はてな博客导出转 EmDash Markdown
+- [emdash-run](https://github.com/joeblew999/emdash-run) - Local runner for emdash-cms/emdash (mise + pitchfork; CAD schema demo) / EmDash 本地运行器（mise + pitchfork；含 CAD schema 示例）
 
 PRs welcome / 欢迎投稿.
 
