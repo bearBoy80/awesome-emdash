@@ -55,6 +55,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [pixelseo-emdash-plugin](https://github.com/codebiwan/pixelseo-emdash-plugin) - AI-generated SEO images via pixelseo.ai into the media library / 经 pixelseo.ai 生成 SEO 图片并写入媒体库 · ★0 · forks 0 · updated 2026-04-17
 - [plugin-ai-discovery](https://github.com/awesomeem/plugin-ai-discovery) - llms.txt, AI manifest, and JSON-LD for AI discovery (WIP) / 面向 AI 发现：llms.txt、AI manifest、JSON-LD（开发中） · ★0 · forks 0 · updated 2026-04-14
 - [emdash-human-sitemap](https://github.com/masonjames/emdash-human-sitemap) - Human-readable sitemap block and Astro component (not XML crawler sitemaps) / 面向读者的可读站点地图区块与 Astro 组件（非 XML）
+- [emdash-seo (airockstar)](https://github.com/airockstar/emdash-seo) - SEO toolkit: meta tags, OpenGraph, JSON-LD, sitemaps, and content analysis (`@ai-rockstar/emdash-seo` / `@emdash-seo/toolkit`) / SEO 工具包：meta、OG、JSON-LD、站点地图与内容分析
 
 ### Email & Forms / 邮件与表单
 
@@ -169,6 +170,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-rss-aggregator](https://github.com/EngDawood/emdash-rss-aggregator) - RSS/Atom aggregator: import and display feeds as content / RSS/Atom 聚合：将订阅源导入并展示为内容 · ★0 · forks 0 · updated 2026-06-20
 - [emdash-action-maintenance](https://github.com/bnomei/emdash-action-maintenance) - Maintenance mode for EmDash sites / EmDash 站点维护模式 · ★0 · forks 0 · updated 2026-06-27
 - [plugin-troubleshooting](https://github.com/emdash-cms/plugin-troubleshooting) - First-party troubleshooting plugin (object cache and runtime issues) / 官方故障排查插件（对象缓存与运行时问题） · ★0 · forks 0 · updated 2026-07-30
+- [emdash-insert-scripts](https://github.com/danielstanica/emdash-insert-scripts) - Inject custom scripts, styles, and HTML into head/body from the admin (native plugin) / 从后台向 head/body 注入脚本、样式与 HTML（原生插件）
 
 ### Learning & Verticals / 学习与垂直领域
 

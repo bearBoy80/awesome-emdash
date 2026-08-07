@@ -64,6 +64,7 @@ PRs welcome / 欢迎投稿 — see [PLUGINS.md](./PLUGINS.md) and [CONTRIBUTING.
 - [obsidian-pensieve-publisher](https://github.com/deathemperor/obsidian-pensieve-publisher) - Obsidian plugin: publish notes to EmDash CMS (+ Facebook cross-post) / Obsidian 插件：发布笔记到 EmDash（可同步 Facebook）
 - [hatena-to-emdash](https://github.com/ochanuco/hatena-to-emdash) - CLI: convert Hatena Blog MT export to EmDash-oriented Markdown / CLI：はてな博客导出转 EmDash Markdown
 - [emdash-run](https://github.com/joeblew999/emdash-run) - Local runner for emdash-cms/emdash (mise + pitchfork; CAD schema demo) / EmDash 本地运行器（mise + pitchfork；含 CAD schema 示例）
+- [emdash-mt-import](https://github.com/kennyg/emdash-mt-import) - CLI: import Movable Type blog exports into EmDash seed JSON / CLI：将 Movable Type 导出导入 EmDash seed JSON
 
 PRs welcome / 欢迎投稿.
 
@@ -73,6 +74,7 @@ PRs welcome / 欢迎投稿.
 - [A Full-Stack TypeScript CMS Built on Astro + Cloudflare](https://github.com/emdash-cms/emdash) - Project overview on GitHub / GitHub 项目总览
 - [Introducing EmDash — WordPress Plugin Security Rebuilt](https://blog.cloudflare.com/emdash-wordpress/) - Official Cloudflare announcement / 官方介绍
 - [emdash-tutorial](https://github.com/maxali/emdash-tutorial) - Editorial developer tutorial for EmDash CMS (Cloudflare Workers) / EmDash 开发者教程站（Cloudflare Workers）
+- [tzu-chi-vibe-coding-emdash](https://github.com/phoenix581228/tzu-chi-vibe-coding-emdash) - University Vibe Coding teaching pack: demo site, student starter, plugin example, and skills / 大学 Vibe Coding 教学包：演示站、学员 starter、插件示例与 skills
 
 PRs welcome / 欢迎投稿.
 
@@ -98,6 +100,7 @@ pnpm --filter emdash-demo seed && pnpm --filter emdash-demo dev
 Admin UI / 后台地址：`http://localhost:4321/_emdash/admin`
 
 - [awesomeem/demo](https://github.com/awesomeem/demo) - One-click Cloudflare demo for the awesomeem ecosystem (Hono + D1 + EmDash-style content) / awesomeem 生态一键 Cloudflare 演示（Hono + D1）
+- [shift64-emdash-cms-benchmark](https://github.com/mateusz-zadorozny/shift64-emdash-cms-benchmark) - EmDash vs WordPress benchmark subject site + measurements (SHIFT64) / EmDash vs WordPress 基准测试站点与测量数据（SHIFT64）
 
 PRs welcome / 欢迎投稿.
 
@@ -113,6 +116,7 @@ PRs welcome / 欢迎投稿.
 - [GitHub Discussions](https://github.com/emdash-cms/emdash/discussions) - Main community forum / 主仓库讨论区
 - [EmDash Discord](https://discord.com/invite/YY9vBaQRYt) - Chat with maintainers and community / 与维护者及社区交流
 - [EmDash on X / Twitter](https://x.com/EmDashCMS) - Official account / 官方账号
+- [aceitw/awesome-emdash](https://github.com/aceitw/awesome-emdash) - Community curated list of EmDash CMS plugins and resources / 社区维护的 EmDash 插件与资源精选列表
 
 ## Contributing / 贡献
 
