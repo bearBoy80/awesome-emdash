@@ -118,6 +118,7 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 ### Commerce & Business / 电商与商业
 
 - [awebsomestuff/emdash-template-restaurant](https://github.com/awebsomestuff/emdash-template-restaurant) - Restaurant / cafe template (La Maison) for EmDash CMS / 餐厅 / 咖啡馆模板（La Maison） · ★0 · forks 0 · updated 2026-04-03
+- [DashingCommerce-template](https://github.com/vidarbrekke/DashingCommerce-template) - Astro + EmDash storefront starter for DashingCommerce (Node + Cloudflare) / DashingCommerce 的 Astro + EmDash 店面起步模板（Node + Cloudflare）
 
 ### Themes / 主题
 

@@ -143,6 +143,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-reading-time (MasonJames)](https://github.com/masonjames/emdash-reading-time) - Reading-time badge: Portable Text block, Astro component, and sitewide defaults / 阅读时长徽章：Portable Text 区块、Astro 组件与全站默认值
 - [emdash-simple-history](https://github.com/masonjames/emdash-simple-history) - Lightweight content activity history (admin page + dashboard widget) / 轻量内容变更历史（后台页 + 仪表盘小组件）
 - [hello-dolly-emdash](https://github.com/hetfirma/hello-dolly-emdash) - Hello Dolly-style demo plugin: dashboard widget and settings page / Hello Dolly 风格示例插件：仪表盘小组件与设置页
+- [emdash-plugin-tabler-icons](https://github.com/wenke-studio/emdash-plugin-tabler-icons) - Tabler Icons Portable Text block with searchable picker (native Astro SVG) / Tabler Icons Portable Text 区块（可搜索选择器，原生 Astro SVG）
 
 ### Accessibility, Privacy & Security / 无障碍、隐私与安全
 
@@ -207,6 +208,13 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
   - [broken-link-checker](https://github.com/ynaoak/emdash-star-plugins/tree/main/broken-link-checker) - Crawl content for broken links on a schedule / 定时巡检内容中的死链
   - [email-resend](https://github.com/ynaoak/emdash-star-plugins/tree/main/email-resend) - Resend transport for the `email:deliver` hook / Resend 邮件传输（`email:deliver`）
   - [spam-guard](https://github.com/ynaoak/emdash-star-plugins/tree/main/spam-guard) - Heuristic + LLM comment spam protection / 启发式 + LLM 评论反垃圾
+- [fastcurveservices/emdash-plugins](https://github.com/fastcurveservices/emdash-plugins) - FastCurve marketplace plugins: form email, audit log, visitor tracker / FastCurve 市场插件：表单邮件、审计日志、访客追踪
+  - [fastcurve-form-email](https://github.com/fastcurveservices/emdash-plugins/tree/main/fastcurve-form-email) - Contact form submission emails via site email pipeline / 通过站点邮件管道发送联系表单通知
+  - [fastcurve-audit-log](https://github.com/fastcurveservices/emdash-plugins/tree/main/fastcurve-audit-log) - Audit log for content, media, comments, email, and plugin lifecycle / 内容/媒体/评论/邮件与插件生命周期审计日志
+  - [fastcurve-visitor-tracker](https://github.com/fastcurveservices/emdash-plugins/tree/main/fastcurve-visitor-tracker) - Visitor and hit tracking with admin UI / 访客与访问命中追踪（含后台）
+- [emdash-notion](https://github.com/kjfsm/emdash-notion) - Notion → EmDash sync monorepo (`@emdash-notion/sync` + `@emdash-notion/blocks`) / Notion → EmDash 同步 monorepo
+  - [sync](https://github.com/kjfsm/emdash-notion/tree/main/packages/sync) - Webhook sync: Notion pages to Portable Text content / Webhook 同步：Notion 页面转 Portable Text
+  - [blocks](https://github.com/kjfsm/emdash-notion/tree/main/packages/blocks) - Native Notion-style blocks (callout, toggle, to-do, etc.) / 原生 Notion 风格区块（callout、toggle、to-do 等）
 
 PRs welcome / 欢迎投稿.
 
