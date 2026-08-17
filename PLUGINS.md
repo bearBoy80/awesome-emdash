@@ -97,6 +97,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emCommerce](https://github.com/cdurth/emCommerce) - eCommerce plugin for EmDash CMS / EmDash 电商插件 · ★6 · forks 3 · updated 2026-04-02
 - [emdash-restrict-with-stripe](https://github.com/strangerstudios/emdash-restrict-with-stripe) - Restrict content and sell access with Stripe (membership) / 基于 Stripe 的内容访问限制与会员付费 · ★5 · forks 1 · updated 2026-04-02
 - [emdash-shop (cristianmartinez)](https://github.com/cristianmartinez/emdash-shop) - Commerce plugin: products, cart, checkout, orders, payments / 电商插件：商品、购物车、结账、订单与支付 · ★0 · forks 0 · updated 2026-04-02
+- [emdash-mika](https://github.com/bnomei/emdash-mika) - Agent-ready commerce primitives for content-led storefronts (cart, wishlist, checkout handoff) ([docs](https://mika.bnomei.com/)) / 面向内容驱动店面的 agent 就绪电商原语（购物车、心愿单、结账交接）
 
 ### Engagement & Social / 互动与社交
 
@@ -216,6 +217,8 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-notion](https://github.com/kjfsm/emdash-notion) - Notion → EmDash sync monorepo (`@emdash-notion/sync` + `@emdash-notion/blocks`) / Notion → EmDash 同步 monorepo · ★0 · forks 0 · updated 2026-08-17
   - [sync](https://github.com/kjfsm/emdash-notion/tree/main/packages/sync) - Webhook sync: Notion pages to Portable Text content / Webhook 同步：Notion 页面转 Portable Text
   - [blocks](https://github.com/kjfsm/emdash-notion/tree/main/packages/blocks) - Native Notion-style blocks (callout, toggle, to-do, etc.) / 原生 Notion 风格区块（callout、toggle、to-do 等）
+- [numoteq/emdash-plugins](https://github.com/numoteq/emdash-plugins) - NUMOTEQ EmDash plugins monorepo (`@numoteq/emdash-plugin-*`) / NUMOTEQ EmDash 插件 monorepo
+  - [forward-email](https://github.com/numoteq/emdash-plugins/tree/main/packages/forward-email) - Forward Email transport provider (sandbox-compatible) / Forward Email 邮件传输提供商（兼容沙箱）
 
 PRs welcome / 欢迎投稿.
 
