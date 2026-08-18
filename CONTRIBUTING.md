@@ -39,6 +39,7 @@ Examples / 示例：
 | --- | --- | --- |
 | Plugin | [PLUGINS.md](./PLUGINS.md) | Community category that fits best |
 | Template / theme | [TEMPLATES.md](./TEMPLATES.md) | Community Templates |
+| Live / production site (not a starter) | [README.md](./README.md) | Examples & Demos → Live sites / 真实站点 |
 | Guide, video, demo, etc. | [README.md](./README.md) | Matching section |
 
 ## Plugins / 插件
@@ -96,6 +97,24 @@ Include:
 - One-line description (English required; Chinese optional)
 - Live demo URL or deploy target when available
 - Node vs Cloudflare target when relevant
+
+## Live sites / 真实站点
+
+Add **public sites built on EmDash** (personal blogs, portfolios, production apps) to [README.md](./README.md) under **Examples & Demos → Live sites / 真实站点**. Do **not** put them in [TEMPLATES.md](./TEMPLATES.md) unless the README markets the repo as a reusable starter/theme.
+
+Include when:
+
+- The repo is a real EmDash CMS site (`emdash` / `@emdash-cms/*` in `package.json`, or equivalent)
+- There is a live URL, a notable stack (Postgres, Helm, custom theme, …), or enough source to learn from
+- It is not an empty `create-emdash` leftover, homework clone, or official-core mirror
+
+Skip empty scaffolds. Official template clones with a live site or a meaningful customization (i18n, extra stack) are OK here.
+
+Include:
+
+- Name + repository URL
+- One-line description (English required; Chinese optional)
+- Live URL when available
 
 ## Pull request / PR
 

@@ -15,6 +15,7 @@ EmDash is a full-stack TypeScript CMS that aims to be the spiritual successor to
 - [Tutorials & Guides](#tutorials--guides--教程与指南)
 - [Videos](#videos--视频)
 - [Examples & Demos](#examples--demos--示例与演示)
+  - [Live sites](#live-sites--真实站点)
 - [Migration from WordPress](#migration-from-wordpress--从-wordpress-迁移)
 - [Community](#community--社区)
 - [Contributing](#contributing--贡献)
@@ -101,6 +102,16 @@ Admin UI / 后台地址：`http://localhost:4321/_emdash/admin`
 
 - [awesomeem/demo](https://github.com/awesomeem/demo) - One-click Cloudflare demo for the awesomeem ecosystem (Hono + D1 + EmDash-style content) / awesomeem 生态一键 Cloudflare 演示（Hono + D1）
 - [shift64-emdash-cms-benchmark](https://github.com/mateusz-zadorozny/shift64-emdash-cms-benchmark) - EmDash vs WordPress benchmark subject site + measurements (SHIFT64) / EmDash vs WordPress 基准测试站点与测量数据（SHIFT64）
+
+### Live sites / 真实站点
+
+Public sites built on EmDash. Source to browse — **not** reusable starters (those belong in [TEMPLATES.md](./TEMPLATES.md)). / 基于 EmDash 的公开站点，供浏览实现；**不是**可复用起步模板（模板见 [TEMPLATES.md](./TEMPLATES.md)）。
+
+- [blog-emdash (engineerlab.jp)](https://github.com/al17091/blog-emdash) - Astro SSR + EmDash blog on PostgreSQL / Helm / K3s ([live](https://www.engineerlab.jp)) / Astro SSR + EmDash 博客（Postgres + Helm / K3s）
+- [hytech3](https://github.com/hyrorre/hytech3) - Personal blog on the official EmDash Cloudflare blog template / 基于官方 Cloudflare 博客模板的个人博客
+- [v5.satooru.me](https://github.com/SatooRu65536/v5.satooru.me) - Personal portfolio on the official EmDash Cloudflare portfolio template ([live](https://v5.satooru.me)) / 基于官方 Cloudflare 作品集模板的个人站
+- [modern-emdash-cms](https://github.com/EngDawood/modern-emdash-cms) - Bilingual AR/EN portfolio on EmDash + Cloudflare Workers + MCP ([live](https://engdawood.com)) / 阿/英双语作品集（Workers + MCP）
+- [sk-personal-website](https://github.com/therealsamyak/sk-personal-website) - Next.js site + EmDash blog on Cloudflare ([live](https://skakatur.dev), [blog](https://blog.skakatur.dev)) / Next.js 站点 + EmDash 博客（Cloudflare）
 
 PRs welcome / 欢迎投稿.
 

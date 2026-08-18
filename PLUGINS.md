@@ -146,6 +146,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-simple-history](https://github.com/masonjames/emdash-simple-history) - Lightweight content activity history (admin page + dashboard widget) / 轻量内容变更历史（后台页 + 仪表盘小组件） · ★0 · forks 0 · updated 2026-06-11
 - [hello-dolly-emdash](https://github.com/hetfirma/hello-dolly-emdash) - Hello Dolly-style demo plugin: dashboard widget and settings page / Hello Dolly 风格示例插件：仪表盘小组件与设置页 · ★0 · forks 0 · updated 2026-04-02
 - [emdash-plugin-tabler-icons](https://github.com/wenke-studio/emdash-plugin-tabler-icons) - Tabler Icons Portable Text block with searchable picker (native Astro SVG) / Tabler Icons Portable Text 区块（可搜索选择器，原生 Astro SVG） · ★0 · forks 0 · updated 2026-08-08
+- [emdash-plugin-bulk-upload](https://github.com/afonsojramos/emdash-plugin-bulk-upload) - Admin drag-and-drop bulk upload: draft entries, optional translations, month-year widget / 后台拖拽批量上传：草稿条目、可选翻译、年月字段组件
 
 ### Accessibility, Privacy & Security / 无障碍、隐私与安全
 
