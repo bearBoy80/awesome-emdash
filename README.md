@@ -112,6 +112,16 @@ Public sites built on EmDash. Source to browse — **not** reusable starters (th
 - [v5.satooru.me](https://github.com/SatooRu65536/v5.satooru.me) - Personal portfolio on the official EmDash Cloudflare portfolio template ([live](https://v5.satooru.me)) / 基于官方 Cloudflare 作品集模板的个人站
 - [modern-emdash-cms](https://github.com/EngDawood/modern-emdash-cms) - Bilingual AR/EN portfolio on EmDash + Cloudflare Workers + MCP ([live](https://engdawood.com)) / 阿/英双语作品集（Workers + MCP）
 - [sk-personal-website](https://github.com/therealsamyak/sk-personal-website) - Next.js site + EmDash blog on Cloudflare ([live](https://skakatur.dev), [blog](https://blog.skakatur.dev)) / Next.js 站点 + EmDash 博客（Cloudflare）
+- [serverstartup.io](https://github.com/julioarguello/serverstartup-io) - Production marketing site: Astro SSR + EmDash on D1/R2, versioned seeds ([live](https://serverstartup.io)) / 生产营销站：Astro SSR + EmDash（D1/R2，版本化 seed）
+- [by-the-boys-bakery](https://github.com/jamesqquick/by-the-boys-bakery) - Micro-bakery site on Astro + EmDash + Tailwind v4 + shadcn / 家庭烘焙店站点（Astro + EmDash + Tailwind / shadcn）
+- [tonyciencia-blog](https://github.com/tinychef/tonyciencia-blog) - Bilingual ES/EN AI blog on EmDash + Cloudflare Workers ([live](https://tonyciencia.com)) / 西/英双语 AI 博客
+- [rhams.es](https://github.com/rhamses/rhams.es) - Personal blog on EmDash + Cloudflare Workers / EmDash + Cloudflare Workers 个人博客
+- [sallymai-website](https://github.com/web1trangvn/sallymai-website) - GlowMind Beauty Academy blog on Astro + EmDash / GlowMind 美业学院博客
+- [emdash-blog (igene.tw)](https://github.com/ching-kuo/emdash-blog) - WordPress migration target: EmDash + Postgres + Ceph S3, bilingual zh-TW/en / WordPress 迁移目标站（Postgres + Ceph，繁中/英）
+- [playscored](https://github.com/devmotminh/playscored) - Game review blog on Astro + EmDash + Cloudflare Workers / 游戏评测博客
+- [bidview-emdash-sites](https://github.com/Bidviewllc/bidview-emdash-sites) - Agency monorepo of production EmDash sites (clinics, directories, marketing) / Bidview 生产站点 monorepo（诊所、目录、营销）
+- [emdash-theme (StyleFlo)](https://github.com/stuart2970-arch/emdash-theme) - StyleFlo marketing site on EmDash + Cloudflare Pages / StyleFlo 营销站（EmDash + Cloudflare Pages）
+- [nocode-review](https://github.com/Kieransaunders/nocode-review) - Directory of no-code tools built on EmDash + Astro / 基于 EmDash 的 no-code 工具目录
 
 PRs welcome / 欢迎投稿.
 
