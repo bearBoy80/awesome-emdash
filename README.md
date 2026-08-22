@@ -128,6 +128,7 @@ PRs welcome / 欢迎投稿.
 ## Migration from WordPress / 从 WordPress 迁移
 
 - [wp-emdash](https://github.com/emdash-cms/wp-emdash) - Official transition helpers from WordPress to EmDash / 官方 WordPress → EmDash 过渡插件
+- [wp2emdash](https://github.com/sibukixxx/wp2emdash) - CLI orchestrator: WordPress → EmDash migration (Unix-philosophy Go tools) / WordPress → EmDash 迁移编排 CLI（Go）
 - [Porting WordPress Themes Guide](https://docs.emdashcms.com/themes/porting-wp-themes/) - Convert PHP themes to Astro / 将主题移植为 Astro
 - [Porting WordPress Plugins Guide](https://docs.emdashcms.com/migration/porting-plugins/) - Rewrite plugins in TypeScript / 将插件改写为 TypeScript
 - [WordPress Import Wizard](https://docs.emdashcms.com/migration/from-wordpress/) - Built-in WXR / REST / WordPress.com import / 内置导入向导

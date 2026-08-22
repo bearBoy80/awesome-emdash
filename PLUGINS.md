@@ -56,6 +56,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [plugin-ai-discovery](https://github.com/awesomeem/plugin-ai-discovery) - llms.txt, AI manifest, and JSON-LD for AI discovery (WIP) / 面向 AI 发现：llms.txt、AI manifest、JSON-LD（开发中） · ★0 · forks 0 · updated 2026-04-14
 - [emdash-human-sitemap](https://github.com/masonjames/emdash-human-sitemap) - Human-readable sitemap block and Astro component (not XML crawler sitemaps) / 面向读者的可读站点地图区块与 Astro 组件（非 XML） · ★0 · forks 0 · updated 2026-05-12
 - [emdash-seo (airockstar)](https://github.com/airockstar/emdash-seo) - SEO toolkit: meta tags, OpenGraph, JSON-LD, sitemaps, and content analysis (`@ai-rockstar/emdash-seo` / `@emdash-seo/toolkit`) / SEO 工具包：meta、OG、JSON-LD、站点地图与内容分析 · ★1 · forks 0 · updated 2026-04-07
+- [emdash-seo (bergerie)](https://github.com/LandCruiserWorld/emdash-seo) - Route-aware SEO: sitemap, robots, llms.txt, and editorial audits (`@bergerie/emdash-seo`) / 按真实路由的 SEO：sitemap、robots、llms.txt 与编辑审核
 
 ### Email & Forms / 邮件与表单
 
@@ -98,6 +99,8 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-restrict-with-stripe](https://github.com/strangerstudios/emdash-restrict-with-stripe) - Restrict content and sell access with Stripe (membership) / 基于 Stripe 的内容访问限制与会员付费 · ★5 · forks 1 · updated 2026-04-02
 - [emdash-shop (cristianmartinez)](https://github.com/cristianmartinez/emdash-shop) - Commerce plugin: products, cart, checkout, orders, payments / 电商插件：商品、购物车、结账、订单与支付 · ★0 · forks 0 · updated 2026-04-02
 - [emdash-mika](https://github.com/bnomei/emdash-mika) - Agent-ready commerce primitives for content-led storefronts (cart, wishlist, checkout handoff) ([docs](https://mika.bnomei.com/)) / 面向内容驱动店面的 agent 就绪电商原语（购物车、心愿单、结账交接）
+- [emdash-commerce-core](https://github.com/gmsas95/emdash-commerce-core) - Provider-neutral commerce core and contracts (catalog, cart, checkout, orders) / 与支付提供商解耦的电商核心与合约（目录、购物车、结账、订单）
+- [chip-for-emdash](https://github.com/gmsas95/chip-for-emdash) - CHIP hosted checkout (FPX, e-wallet, card, DuitNow QR) for EmDash / CHIP 托管结账（FPX、电子钱包、卡、DuitNow QR）
 
 ### Engagement & Social / 互动与社交
 
@@ -111,6 +114,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [bible-emdash-plugin](https://github.com/midvash/bible-emdash-plugin) - Auto-link Bible references with hover tooltips (EN/PT/ES) / 自动识别圣经经文链接，悬停显示提示（英/葡/西） · ★0 · forks 0 · updated 2026-07-23
 - [emdash-author-box](https://github.com/masonjames/emdash-author-box) - Production-ready author box / 生产级作者信息框 · ★0 · forks 0 · updated 2026-06-11
 - [action-pages](https://github.com/adpena/action-pages) - Campaign action pages: petitions, fundraising, GOTV, signups / 竞选/活动行动页：请愿、筹款、动员投票、报名 · ★2 · forks 0 · updated 2026-04-08
+- [indieweb-astro](https://github.com/courtneyr-dev/indieweb-astro) - IndieWeb stack for Astro/EmDash: webmentions, IndieAuth, Micropub (`@opensourcetogether/emdash-indieweb`) / Astro/EmDash 的 IndieWeb 栈：webmentions、IndieAuth、Micropub
 
 ### Media & Galleries / 媒体与图库
 

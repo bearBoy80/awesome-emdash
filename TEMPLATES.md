@@ -114,6 +114,7 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [awebsomestuff/emdash-template-personal](https://github.com/awebsomestuff/emdash-template-personal) - Minimalist personal portfolio and CV template / 极简个人作品集与简历模板 · ★0 · forks 0 · updated 2026-04-03
 - [emdash-themes (saviour123)](https://github.com/saviour123/emdash-themes) - EmDash portfolio template for Cloudflare Workers / EmDash 作品集模板（Cloudflare Workers） · ★0 · forks 0 · updated 2026-08-04
 - [crafted](https://github.com/adpena/crafted) - Portfolio and campaign action-page engine on EmDash + Cloudflare / EmDash + Cloudflare 作品集与活动行动页引擎 · ★0 · forks 0 · updated 2026-08-13
+- [minastro](https://github.com/frankievalentine/minastro) - EmDash-first personal-site template (Astro + Cloudflare Workers) ([demo](https://minastro.pages.dev)) / EmDash 优先的个人站模板（Astro + Cloudflare Workers）
 
 ### Commerce & Business / 电商与商业
 
