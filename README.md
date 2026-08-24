@@ -124,6 +124,7 @@ Public sites built on EmDash. Source to browse — **not** reusable starters (th
 - [nocode-review](https://github.com/Kieransaunders/nocode-review) - Directory of no-code tools built on EmDash + Astro / 基于 EmDash 的 no-code 工具目录
 - [astro-emdash (afterword.blog)](https://github.com/huckabarry/astro-emdash) - afterword.blog on EmDash + Cloudflare (D1/R2, ATProto, embeds) ([live](https://afterword.blog)) / afterword.blog（D1/R2、ATProto、embeds）
 - [2trust-ai-emdash-site](https://github.com/2Trust-AI/2trust-ai-emdash-site) - 2Trust.AI marketing site on EmDash + Cloudflare Workers ([live](https://2trust.ai)) / 2Trust.AI 营销站（Workers + D1 + R2）
+- [PokeBlog](https://github.com/KURTEcl/PokeBlog) - Pokémon TCG blog on EmDash with an interactive Phaser home room / Pokémon TCG 博客（EmDash + Phaser 互动房间）
 
 PRs welcome / 欢迎投稿.
 
