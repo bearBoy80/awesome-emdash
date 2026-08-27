@@ -103,6 +103,7 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [emdash-templates-aio](https://github.com/taicv/emdash-templates-aio) - All-in-one CMS template: admin, marketing pages, blocks, and blog / 一站式模板：后台、营销页、区块与博客 · ★0 · forks 0 · updated 2026-04-11
 - [cloudflare-free-emdash-starter](https://github.com/saviour123/cloudflare-free-emdash-starter) - Minimal EmDash blog on Cloudflare Workers + D1 + R2 / Cloudflare Workers + D1 + R2 极简 EmDash 博客 · ★0 · forks 0 · updated 2026-06-06
 - [emdash-astro-template-1](https://github.com/Begin-Source/emdash-astro-template-1) - EmDash blog template for Cloudflare Workers + D1 + R2 / EmDash 博客模板（Cloudflare Workers + D1 + R2） · ★0 · forks 0 · updated 2026-04-13
+- [emdash-theme-sylee-newsletter](https://github.com/siygle/emdash-theme-sylee-newsletter) - Newsletter theme inspired by sylee.dev ([preview](https://sylee.dev/newsletter/)) / 受 sylee.dev 启发的 newsletter 主题
 
 ### Marketing & Landing / 营销与落地页
 
@@ -121,6 +122,8 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [awebsomestuff/emdash-template-restaurant](https://github.com/awebsomestuff/emdash-template-restaurant) - Restaurant / cafe template (La Maison) for EmDash CMS / 餐厅 / 咖啡馆模板（La Maison） · ★0 · forks 0 · updated 2026-04-03
 - [DashingCommerce-template](https://github.com/vidarbrekke/DashingCommerce-template) - Astro + EmDash storefront starter for DashingCommerce (Node + Cloudflare) / DashingCommerce 的 Astro + EmDash 店面起步模板（Node + Cloudflare） · ★0 · forks 0 · updated 2026-08-09
 - [emdash-mika-template](https://github.com/bnomei/emdash-mika-template) - Astro + EmDash storefront starter for Mika (cart, wishlist, checkout fixtures) / Mika 的 Astro + EmDash 店面起步模板（购物车、心愿单、结账 fixtures） · ★0 · forks 0 · updated 2026-08-10
+- [emdash-theme-mainstreet](https://github.com/ecropolis/emdash-theme-mainstreet) - Service-business theme: pricing, team, hours, booking CTAs ([demo](https://mainstreet.superherotech.ai)) / 本地服务主题：定价、团队、营业时间、预约 CTA
+- [emdash-theme-supper](https://github.com/ecropolis/emdash-theme-supper) - Restaurant theme: structured menu, hours, gallery, reservations ([demo](https://supper.superherotech.ai)) / 餐厅主题：结构化菜单、营业时间、图库、预订
 
 ### Themes / 主题
 
@@ -133,6 +136,7 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [emdash-alchemy-template](https://github.com/jcheese1/emdash-alchemy-template) - EmDash + Alchemy + Cloudflare Workers template / EmDash + Alchemy + Cloudflare Workers 模板 · ★0 · forks 0 · updated 2026-04-21
 - [emdash-templates-aio-cloudflare](https://github.com/taicv/emdash-templates-aio-cloudflare) - All-in-one EmDash template preconfigured for Cloudflare deploy / 预配置 Cloudflare 部署的一站式 EmDash 模板 · ★0 · forks 0 · updated 2026-04-11
 - [emdash-starter (traone)](https://github.com/traone/emdash-starter) - General-purpose Cloudflare Workers starter (posts, pages, tags; tinywind base) / 通用 Cloudflare Workers 起步模板（文章/页面/标签；tinywind 基底） · ★0 · forks 0 · updated 2026-08-06
+- [astro-emdash-libsql-r2-starter](https://github.com/milzamsz/astro-emdash-libsql-r2-starter) - Astro + EmDash starter for Dokploy with native libSQL + Cloudflare R2 / Dokploy 起步模板：原生 libSQL + Cloudflare R2
 
 PRs welcome / 欢迎投稿.
 
