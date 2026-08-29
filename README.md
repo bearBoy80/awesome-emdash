@@ -126,6 +126,8 @@ Public sites built on EmDash. Source to browse — **not** reusable starters (th
 - [2trust-ai-emdash-site](https://github.com/2Trust-AI/2trust-ai-emdash-site) - 2Trust.AI marketing site on EmDash + Cloudflare Workers ([live](https://2trust.ai)) / 2Trust.AI 营销站（Workers + D1 + R2）
 - [PokeBlog](https://github.com/KURTEcl/PokeBlog) - Pokémon TCG blog on EmDash with an interactive Phaser home room / Pokémon TCG 博客（EmDash + Phaser 互动房间）
 - [app.inovuslabs.org](https://github.com/inovus-labs/app.inovuslabs.org) - Inovus Labs content console: Astro + EmDash + Hono on Cloudflare ([live](https://app.inovuslabs.org)) / Inovus Labs 内容控制台（Astro + EmDash + Hono）
+- [emdash-cms-astro-js](https://github.com/aiiddqd/emdash-cms-astro-js) - SSR blog on Astro + EmDash with SQLite, search, RSS, and audit log / Astro + EmDash SSR 博客（SQLite、搜索、RSS、审计日志）
+- [jdhaines/emdash](https://github.com/jdhaines/emdash) - Long-form writing CMS proof of concept mirroring joshhaines.com / 长文写作 CMS 试验站（对齐 joshhaines.com）
 
 PRs welcome / 欢迎投稿.
 
