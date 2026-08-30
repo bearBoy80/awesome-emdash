@@ -120,6 +120,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [indieweb-astro](https://github.com/courtneyr-dev/indieweb-astro) - IndieWeb stack for Astro/EmDash: webmentions, IndieAuth, Micropub (`@opensourcetogether/emdash-indieweb`) / Astro/EmDash 的 IndieWeb 栈：webmentions、IndieAuth、Micropub · ★0 · forks 0 · updated 2026-07-12
 - [emdash-plugin-social-embeds (siygle)](https://github.com/siygle/emdash-plugin-social-embeds) - Portable Text social embeds: X, Bluesky, YouTube, and more / Portable Text 社交嵌入：X、Bluesky、YouTube 等
 - [emdash-plugin-bluesky-comments](https://github.com/siygle/emdash-plugin-bluesky-comments) - Native comments via Giscus + Bluesky / 基于 Giscus + Bluesky 的原生评论
+- [emdash-plugin-social-comments](https://github.com/siygle/emdash-plugin-social-comments) - Tabbed Giscus + Bluesky comments (successor of emdash-plugin-bluesky-comments) / 分页签 Giscus + Bluesky 评论（接替 bluesky-comments）
 
 ### Media & Galleries / 媒体与图库
 
