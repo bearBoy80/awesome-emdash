@@ -66,6 +66,7 @@ PRs welcome / 欢迎投稿 — see [PLUGINS.md](./PLUGINS.md) and [CONTRIBUTING.
 - [hatena-to-emdash](https://github.com/ochanuco/hatena-to-emdash) - CLI: convert Hatena Blog MT export to EmDash-oriented Markdown / CLI：はてな博客导出转 EmDash Markdown
 - [emdash-run](https://github.com/joeblew999/emdash-run) - Local runner for emdash-cms/emdash (mise + pitchfork; CAD schema demo) / EmDash 本地运行器（mise + pitchfork；含 CAD schema 示例）
 - [emdash-mt-import](https://github.com/kennyg/emdash-mt-import) - CLI: import Movable Type blog exports into EmDash seed JSON / CLI：将 Movable Type 导出导入 EmDash seed JSON
+- [migrate-site-skill](https://github.com/Iceberg-Media/migrate-site-skill) - Agent skill scaffold for deterministic website → Astro/EmDash migrations / 网站 → Astro/EmDash 确定性迁移的 Agent skill 脚手架
 
 PRs welcome / 欢迎投稿.
 
