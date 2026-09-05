@@ -67,6 +67,7 @@ PRs welcome / 欢迎投稿 — see [PLUGINS.md](./PLUGINS.md) and [CONTRIBUTING.
 - [emdash-run](https://github.com/joeblew999/emdash-run) - Local runner for emdash-cms/emdash (mise + pitchfork; CAD schema demo) / EmDash 本地运行器（mise + pitchfork；含 CAD schema 示例）
 - [emdash-mt-import](https://github.com/kennyg/emdash-mt-import) - CLI: import Movable Type blog exports into EmDash seed JSON / CLI：将 Movable Type 导出导入 EmDash seed JSON
 - [migrate-site-skill](https://github.com/Iceberg-Media/migrate-site-skill) - Agent skill scaffold for deterministic website → Astro/EmDash migrations / 网站 → Astro/EmDash 确定性迁移的 Agent skill 脚手架
+- [emdash-platform-wfp](https://github.com/scottbuscemi/emdash-platform-wfp) - Prompt-to-site builder on Cloudflare Workers for Platforms + EmDash / 基于 Workers for Platforms 的一句话建站
 
 PRs welcome / 欢迎投稿.
 
@@ -129,6 +130,12 @@ Public sites built on EmDash. Source to browse — **not** reusable starters (th
 - [app.inovuslabs.org](https://github.com/inovus-labs/app.inovuslabs.org) - Inovus Labs content console: Astro + EmDash + Hono on Cloudflare ([live](https://app.inovuslabs.org)) / Inovus Labs 内容控制台（Astro + EmDash + Hono）
 - [emdash-cms-astro-js](https://github.com/aiiddqd/emdash-cms-astro-js) - SSR blog on Astro + EmDash with SQLite, search, RSS, and audit log / Astro + EmDash SSR 博客（SQLite、搜索、RSS、审计日志）
 - [jdhaines/emdash](https://github.com/jdhaines/emdash) - Long-form writing CMS proof of concept mirroring joshhaines.com / 长文写作 CMS 试验站（对齐 joshhaines.com）
+- [poiemaretreats-site](https://github.com/PoiemaRetreats/poiemaretreats-site) - Poiema Retreats rebuilt on EmDash + Cloudflare ([live](https://poiemaretreats.org)) / Poiema Retreats 重建站
+- [seanbehan.ca](https://github.com/codebam/seanbehan.ca) - Personal site + technical blog: dual origins, D1/R2 ([live](https://seanbehan.ca)) / 个人站与技术博客（双域名，D1/R2）
+- [my-emdash-site (sylee.dev)](https://github.com/siygle/my-emdash-site) - Blog with social embeds and Bluesky comments ([live](https://sylee.dev)) / 带社交嵌入与 Bluesky 评论的博客
+- [hirodev-fr/portfolio](https://github.com/hirodev-fr/portfolio) - HIRO DEV portfolio on EmDash + Cloudflare Workers / HIRO DEV 作品集（Workers + D1 + R2）
+- [emdash-blog (laobaiblog)](https://github.com/zqs1qiwan/emdash-blog) - Bilingual zh/en personal blog on EmDash + Cloudflare Workers / 中英双语个人博客
+- [gncroyalworks-emdash](https://github.com/jroyal/gncroyalworks-emdash) - Handmade leatherwork gallery (GNCRoyalWorks, Katy TX) on EmDash / 手作皮具作品廊
 
 PRs welcome / 欢迎投稿.
 
