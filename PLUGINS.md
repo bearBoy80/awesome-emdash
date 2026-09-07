@@ -41,11 +41,11 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 ### Analytics & SEO / 分析与 SEO
 
 - [SerpDelta](https://github.com/SerpDelta/emdash-plugin) - Google Search Console tracking for ranking changes ([marketplace](https://emdashcms.org/plugins/serpdelta)) / Google Search Console 排名变化追踪 · ★0 · forks 0 · updated 2026-04-09
-- [emdash-analytics-plugin](https://github.com/yourbright-jp/emdash-analytics-plugin) - Google Search Console + GA4 analytics with opportunity scoring / Search Console + GA4 分析与内容机会评分 · ★0 · forks 0 · updated 2026-08-28
+- [emdash-analytics-plugin](https://github.com/yourbright-jp/emdash-analytics-plugin) - Google Search Console + GA4 analytics with opportunity scoring / Search Console + GA4 分析与内容机会评分 · ★1 · forks 0 · updated 2026-09-04
 - [em-content-insights](https://github.com/facuzarate04/em-content-insights) - Privacy-first post analytics (views, read rate, time on page, referrers) / 隐私优先的文章分析（浏览量、阅读率、停留时长、来源） · ★3 · forks 0 · updated 2026-04-05
 - [em-analytics-hub](https://github.com/facuzarate04/em-analytics-hub) - Privacy-first analytics with dashboards, funnels, goals, and campaigns / 隐私优先分析（看板、漏斗、目标与营销活动） · ★1 · forks 0 · updated 2026-04-18
 - [emdash-plugin-analytics](https://github.com/MosierData/emdash-plugin-analytics) - GTM, GA4, Search Console, UTM attribution, and call tracking / GTM、GA4、Search Console、UTM 归因与来电追踪 · ★7 · forks 0 · updated 2026-04-10
-- [emdash-plugin-seo](https://github.com/jdevalk/emdash-plugin-seo) - SEO: meta tags, Open Graph, canonical URLs, robots, JSON-LD / SEO：meta、OG、canonical、robots、JSON-LD · ★16 · forks 3 · updated 2026-06-18
+- [emdash-plugin-seo](https://github.com/jdevalk/emdash-plugin-seo) - SEO: meta tags, Open Graph, canonical URLs, robots, JSON-LD / SEO：meta、OG、canonical、robots、JSON-LD · ★19 · forks 3 · updated 2026-06-18
 - [emdash-plugin-seo (DreamsEngine)](https://github.com/DreamsEngine/emdash-plugin-seo) - SEO analysis and optimization — free Yoast-style alternative with AI suggestions / SEO 分析与优化（类 Yoast，含 AI 建议） · ★4 · forks 0 · updated 2026-04-06
 - [emdash-seo-core](https://github.com/masonjames/emdash-seo-core) - Subset-first SEO metadata plugin / 精简版 SEO 元数据插件 · ★1 · forks 0 · updated 2026-05-12
 - [emdash-auto-meta](https://github.com/marcusbellamyshaw-cell/emdash-auto-meta) - AI-generated SEO metadata, image alt text, and taxonomy tagging / AI 生成 SEO 元数据、图片 alt 与分类标签 · ★2 · forks 0 · updated 2026-07-12
@@ -57,7 +57,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-human-sitemap](https://github.com/masonjames/emdash-human-sitemap) - Human-readable sitemap block and Astro component (not XML crawler sitemaps) / 面向读者的可读站点地图区块与 Astro 组件（非 XML） · ★0 · forks 0 · updated 2026-05-12
 - [emdash-seo (airockstar)](https://github.com/airockstar/emdash-seo) - SEO toolkit: meta tags, OpenGraph, JSON-LD, sitemaps, and content analysis (`@ai-rockstar/emdash-seo` / `@emdash-seo/toolkit`) / SEO 工具包：meta、OG、JSON-LD、站点地图与内容分析 · ★1 · forks 0 · updated 2026-04-07
 - [emdash-seo (bergerie)](https://github.com/LandCruiserWorld/emdash-seo) - Route-aware SEO: sitemap, robots, llms.txt, and editorial audits (`@bergerie/emdash-seo`) / 按真实路由的 SEO：sitemap、robots、llms.txt 与编辑审核 · ★0 · forks 0 · updated 2026-08-20
-- [aeo-ultimate-emdash](https://github.com/tampawebtech/aeo-ultimate-emdash) - Answer-engine SEO + Schema.org graph (`@aeoultimate/emdash-aeo`) / AEO 与 Schema.org 实体图谱
+- [aeo-ultimate-emdash](https://github.com/tampawebtech/aeo-ultimate-emdash) - Answer-engine SEO + Schema.org graph (`@aeoultimate/emdash-aeo`) / AEO 与 Schema.org 实体图谱 · ★0 · forks 0 · updated 2026-09-03
 
 ### Email & Forms / 邮件与表单
 
@@ -86,39 +86,39 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [email-provider](https://github.com/aekainal/email-provider) - EmDash CMS email-provider plugin / EmDash 邮件提供商插件 · ★0 · forks 0 · updated 2026-04-25
 - [emdash-plugin-email (feronera)](https://github.com/feronera/emdash-plugin-email) - Email delivery over provider HTTP APIs (Resend default; Workers-friendly) / 通过提供商 HTTP API 发信（默认 Resend，适配 Workers） · ★0 · forks 0 · updated 2026-08-03
 - [emdash-postal](https://github.com/undefined-charity/emdash-postal) - Postal self-hosted email provider (HTTP API; Node + Workers sandbox) / Postal 自托管邮件提供商（HTTP API，支持 Node 与 Workers 沙箱） · ★1 · forks 0 · updated 2026-08-18
-- [emdash-mailing-list](https://github.com/WoofyIO/emdash-mailing-list) - Simple mailing list: double opt-in, Markdown blasts, Postal bounce webhooks / 简易邮件列表：二次确认、Markdown 群发、Postal 退信 Webhook · ★0 · forks 0 · updated 2026-08-21
+- [emdash-mailing-list](https://github.com/WoofyIO/emdash-mailing-list) - Simple mailing list: double opt-in, Markdown blasts, Postal bounce webhooks / 简易邮件列表：二次确认、Markdown 群发、Postal 退信 Webhook · ★0 · forks 0 · updated 2026-09-03
 - [emdash-plugin-compass-forms](https://github.com/ecropolis/emdash-plugin-compass-forms) - Editor Form block with stored submissions, email notify, and spam basics / 编辑器表单区块：存储提交、邮件通知与基础反垃圾 · ★0 · forks 0 · updated 2026-08-27
 - [emdash-plugin-compass-mail](https://github.com/ecropolis/emdash-plugin-compass-mail) - Email transport via SendGrid or Resend (`email:deliver`) / 通过 SendGrid 或 Resend 发送（`email:deliver`） · ★0 · forks 0 · updated 2026-08-27
-- [emdash-contact-form (incsub)](https://github.com/MJGit1974/emdash-contact-form) - Single shortcode contact form with admin submissions (`@incsub/emdash-contact-form`) / 单表单联系插件（shortcode + 后台提交）
+- [emdash-contact-form (incsub)](https://github.com/MJGit1974/emdash-contact-form) - Single shortcode contact form with admin submissions (`@incsub/emdash-contact-form`) / 单表单联系插件（shortcode + 后台提交） · ★0 · forks 0 · updated 2026-06-04
 
 ### Commerce / 电商
 
-- [DashCommerce](https://github.com/emdashCommerce/dashcommerce) - WooCommerce-equivalent commerce plugin ([dashcommerce.dev](https://dashcommerce.dev)) / 对标 WooCommerce 的电商插件 · ★26 · forks 4 · updated 2026-07-09
+- [DashCommerce](https://github.com/emdashCommerce/dashcommerce) - WooCommerce-equivalent commerce plugin ([dashcommerce.dev](https://dashcommerce.dev)) / 对标 WooCommerce 的电商插件 · ★27 · forks 4 · updated 2026-07-09
 - [emdash-commerce](https://github.com/Dullaz/emdash-commerce) - Products, inventory, orders, checkout, pluggable payments / 商品、库存、订单、结账与可插拔支付能力 · ★0 · forks 0 · updated 2026-06-23
 - [emdash-plugin-store](https://github.com/marcusbellamyshaw-cell/emdash-plugin-store) - Printful print-on-demand storefront with Stripe checkout / Printful 按需印刷店面 + Stripe 结账 · ★0 · forks 0 · updated 2026-08-12
 - [Carte](https://github.com/foreztgump/carte) - Restaurant plugin family: menus, reservations, Stripe ordering / 餐厅插件系列：菜单、预订、Stripe 点餐 · ★0 · forks 0 · updated 2026-06-24
 - [inventory](https://github.com/dinkuskit/inventory) - Inventory ledger: locations, movements, reservations / 库存台账：仓位、出入库流水、预留 · ★0 · forks 0 · updated 2026-08-30
 - [coupons](https://github.com/dinkuskit/coupons) - Advanced promotions for AICommerce (rules, BOGO, limits) / AICommerce 高级促销（规则、买赠 BOGO、限额） · ★0 · forks 0 · updated 2026-07-23
 - [bundles](https://github.com/dinkuskit/bundles) - Mix-and-match product bundles for AICommerce / AICommerce 自由组合套装 · ★1 · forks 0 · updated 2026-07-23
-- [emCommerce](https://github.com/cdurth/emCommerce) - eCommerce plugin for EmDash CMS / EmDash 电商插件 · ★9 · forks 3 · updated 2026-04-02
+- [emCommerce](https://github.com/cdurth/emCommerce) - eCommerce plugin for EmDash CMS / EmDash 电商插件 · ★10 · forks 3 · updated 2026-04-02
 - [emdash-restrict-with-stripe](https://github.com/strangerstudios/emdash-restrict-with-stripe) - Restrict content and sell access with Stripe (membership) / 基于 Stripe 的内容访问限制与会员付费 · ★5 · forks 1 · updated 2026-04-02
 - [emdash-shop (cristianmartinez)](https://github.com/cristianmartinez/emdash-shop) - Commerce plugin: products, cart, checkout, orders, payments / 电商插件：商品、购物车、结账、订单与支付 · ★0 · forks 0 · updated 2026-04-02
 - [emdash-mika](https://github.com/bnomei/emdash-mika) - Agent-ready commerce primitives for content-led storefronts (cart, wishlist, checkout handoff) ([docs](https://mika.bnomei.com/)) / 面向内容驱动店面的 agent 就绪电商原语（购物车、心愿单、结账交接） · ★2 · forks 0 · updated 2026-08-10
 - [emdash-commerce-core](https://github.com/gmsas95/emdash-commerce-core) - Provider-neutral commerce core and contracts (catalog, cart, checkout, orders) / 与支付提供商解耦的电商核心与合约（目录、购物车、结账、订单） · ★0 · forks 0 · updated 2026-08-29
 - [chip-for-emdash](https://github.com/gmsas95/chip-for-emdash) - CHIP hosted checkout (FPX, e-wallet, card, DuitNow QR) for EmDash / CHIP 托管结账（FPX、电子钱包、卡、DuitNow QR） · ★1 · forks 0 · updated 2026-08-29
-- [dinkuskit/commerce](https://github.com/dinkuskit/commerce) - Open-source commerce layer for EmDash (`@dinkuskit/commerce`; catalog draft-item pilot) / EmDash 开源电商层（目录草稿试点）
-- [emdash-stripe](https://github.com/tmyuu/emdash-stripe) - Stripe Checkout / Payment Intents / subscriptions from CMS entries / 按内容条目收款（Checkout、Payment Intents、订阅）
+- [dinkuskit/commerce](https://github.com/dinkuskit/commerce) - Open-source commerce layer for EmDash (`@dinkuskit/commerce`; catalog draft-item pilot) / EmDash 开源电商层（目录草稿试点） · ★0 · forks 0 · updated 2026-08-30
+- [emdash-stripe](https://github.com/tmyuu/emdash-stripe) - Stripe Checkout / Payment Intents / subscriptions from CMS entries / 按内容条目收款（Checkout、Payment Intents、订阅） · ★0 · forks 0 · updated 2026-07-03
 
 ### Engagement & Social / 互动与社交
 
 - [emdash-rating](https://github.com/99points/emdash-rating) - Star ratings for posts and pages ([marketplace](https://emdashcms.org/plugins/emdash-rating)) / 文章与页面星级评分 · ★0 · forks 0 · updated 2026-04-09
 - [emdash-social-sharing](https://github.com/masonjames/emdash-social-sharing) - Privacy-light social sharing controls / 轻量且注重隐私的社交分享 · ★0 · forks 0 · updated 2026-05-12
 - [emdash-plugin-social-embed](https://github.com/marcusbellamyshaw-cell/emdash-plugin-social-embed) - Paste-URL social embeds via server-side oEmbed (10 platforms) / 粘贴 URL 即可嵌入社交内容（服务端 oEmbed，10 个平台） · ★4 · forks 0 · updated 2026-08-12
-- [emdash-plugin-engagement](https://github.com/marcusbellamyshaw-cell/emdash-plugin-engagement) - Publish/reply digests + comment gamification (points, badges, leaderboard) / 发布/回复摘要 + 评论游戏化（积分、徽章、排行榜） · ★2 · forks 0 · updated 2026-08-12
+- [emdash-plugin-engagement](https://github.com/marcusbellamyshaw-cell/emdash-plugin-engagement) - Publish/reply digests + comment gamification (points, badges, leaderboard) / 发布/回复摘要 + 评论游戏化（积分、徽章、排行榜） · ★2 · forks 0 · updated 2026-09-02
 - [emdash-plugin-shoebox](https://github.com/marcusbellamyshaw-cell/emdash-plugin-shoebox) - Community photo/story submissions with admin review queue / 社区照片/故事投稿 + 后台审核队列 · ★1 · forks 0 · updated 2026-07-27
-- [emdash-to-buffer-plugin](https://github.com/devjusty/emdash-to-buffer-plugin) - Send blog posts to Buffer / 将博客文章发送到 Buffer · ★0 · forks 0 · updated 2026-08-03
+- [emdash-to-buffer-plugin](https://github.com/devjusty/emdash-to-buffer-plugin) - Send blog posts to Buffer / 将博客文章发送到 Buffer · ★0 · forks 0 · updated 2026-09-04
 - [emdash-plugin-social-share](https://github.com/drateberry/emdash-plugin-social-share) - Auto-share content to X, Bluesky, and Mastodon / 自动分享内容到 X、Bluesky、Mastodon · ★0 · forks 0 · updated 2026-04-22
-- [bible-emdash-plugin](https://github.com/midvash/bible-emdash-plugin) - Auto-link Bible references with hover tooltips (EN/PT/ES) / 自动识别圣经经文链接，悬停显示提示（英/葡/西） · ★0 · forks 0 · updated 2026-08-27
+- [bible-emdash-plugin](https://github.com/midvash/bible-emdash-plugin) - Auto-link Bible references with hover tooltips (EN/PT/ES) / 自动识别圣经经文链接，悬停显示提示（英/葡/西） · ★0 · forks 0 · updated 2026-09-03
 - [emdash-author-box](https://github.com/masonjames/emdash-author-box) - Production-ready author box / 生产级作者信息框 · ★0 · forks 0 · updated 2026-06-11
 - [action-pages](https://github.com/adpena/action-pages) - Campaign action pages: petitions, fundraising, GOTV, signups / 竞选/活动行动页：请愿、筹款、动员投票、报名 · ★2 · forks 0 · updated 2026-04-08
 - [indieweb-astro](https://github.com/courtneyr-dev/indieweb-astro) - IndieWeb stack for Astro/EmDash: webmentions, IndieAuth, Micropub (`@opensourcetogether/emdash-indieweb`) / Astro/EmDash 的 IndieWeb 栈：webmentions、IndieAuth、Micropub · ★0 · forks 0 · updated 2026-07-12
@@ -137,7 +137,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-plugin-stl-viewer](https://github.com/ebootheee/emdash-plugin-stl-viewer) - Interactive 3D STL/3MF previews in Portable Text / Portable Text 中的交互式 STL/3MF 三维预览 · ★2 · forks 0 · updated 2026-05-22
 - [emdash-plugin-auto-cover](https://github.com/tableau-China/emdash-plugin-auto-cover) - Auto-generate post cover images via Tencent Hunyuan AI / 基于腾讯混元 AI 自动生成文章封面 · ★0 · forks 0 · empty
 - [emdash-plugin-gallery-grid (feronera)](https://github.com/feronera/emdash-plugin-gallery-grid) - Drag-and-drop thumbnail grid field widget for image-array JSON fields / 图片数组 JSON 字段的拖拽缩略图网格组件 · ★0 · forks 0 · updated 2026-08-03
-- [emdash-plugin-neodb](https://github.com/ann61c/emdash-plugin-neodb) - NeoDB cards and a books/movies/music shelf / NeoDB 书影音卡片与 shelf
+- [emdash-plugin-neodb](https://github.com/ann61c/emdash-plugin-neodb) - NeoDB cards and a books/movies/music shelf / NeoDB 书影音卡片与 shelf · ★0 · forks 0 · updated 2026-09-04
 
 ### Content, Fields & Editor / 内容、字段与编辑器
 
@@ -147,7 +147,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-actions](https://github.com/bnomei/emdash-actions) - Action buttons for fields and dashboards / 字段与仪表盘操作按钮 · ★2 · forks 0 · updated 2026-06-29
 - [emdash-plugin-blocks](https://github.com/dennisklappe/emdash-plugin-blocks) - Key/value copy fields with hidden lookup keys / 键值文案字段（含隐藏查找键） · ★0 · forks 0 · updated 2026-06-23
 - [emdash-plugin-stars](https://github.com/dennisklappe/emdash-plugin-stars) - Star rating field widget for integer fields / 整型字段星级评分组件 · ★0 · forks 0 · updated 2026-06-23
-- [blocks](https://github.com/dinkuskit/blocks) - Section-block library for composing whole pages in admin / 后台整页拼装用的区块组件库 · ★0 · forks 0 · updated 2026-08-30
+- [blocks](https://github.com/dinkuskit/blocks) - Section-block library for composing whole pages in admin / 后台整页拼装用的区块组件库 · ★0 · forks 0 · updated 2026-08-31
 - [emdash-table-of-contents](https://github.com/masonjames/emdash-table-of-contents) - TOC for Portable Text with Astro components / Portable Text 目录（含 Astro 组件） · ★0 · forks 0 · updated 2026-05-12
 - [emdash-plugin-related-content](https://github.com/markuskiller/emdash-plugin-related-content) - Dynamic related content on public detail pages / 公开详情页的动态相关内容 · ★0 · forks 0 · updated 2026-08-12
 - [emdash-plugin-reading-time](https://github.com/nozo-moto/emdash-plugin-reading-time) - Reading time plugin / 阅读时长插件 · ★0 · forks 0 · updated 2026-04-08
@@ -162,11 +162,11 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [hello-dolly-emdash](https://github.com/hetfirma/hello-dolly-emdash) - Hello Dolly-style demo plugin: dashboard widget and settings page / Hello Dolly 风格示例插件：仪表盘小组件与设置页 · ★0 · forks 0 · updated 2026-04-02
 - [emdash-plugin-tabler-icons](https://github.com/wenke-studio/emdash-plugin-tabler-icons) - Tabler Icons Portable Text block with searchable picker (native Astro SVG) / Tabler Icons Portable Text 区块（可搜索选择器，原生 Astro SVG） · ★0 · forks 0 · updated 2026-08-08
 - [emdash-plugin-bulk-upload](https://github.com/afonsojramos/emdash-plugin-bulk-upload) - Admin drag-and-drop bulk upload: draft entries, optional translations, month-year widget / 后台拖拽批量上传：草稿条目、可选翻译、年月字段组件 · ★0 · forks 0 · updated 2026-08-24
-- [emdash-plugin-puck](https://github.com/markoinla/emdash-plugin-puck) - Puck visual editor as a json field widget with public rendering / Puck 可视化编辑器（json 字段组件 + 前台渲染）
+- [emdash-plugin-puck](https://github.com/markoinla/emdash-plugin-puck) - Puck visual editor as a json field widget with public rendering / Puck 可视化编辑器（json 字段组件 + 前台渲染） · ★0 · forks 0 · updated 2026-09-05
 
 ### Accessibility, Privacy & Security / 无障碍、隐私与安全
 
-- [emdash-plugin-cookie-consent](https://github.com/adrianoamalfi/emdash-plugin-cookie-consent) - Cookie consent banner with category opt-in and admin settings / Cookie 同意横幅（分类授权 + 后台配置） · ★2 · forks 0 · updated 2026-08-12
+- [emdash-plugin-cookie-consent](https://github.com/adrianoamalfi/emdash-plugin-cookie-consent) - Cookie consent banner with category opt-in and admin settings / Cookie 同意横幅（分类授权 + 后台配置） · ★3 · forks 0 · updated 2026-08-12
 - [emdash-plugin-a11y](https://github.com/Full-Stack-Tech/emdash-plugin-a11y) - WCAG 2.2 AA accessibility linting and author-time scorecard / WCAG 2.2 AA 无障碍检查与编辑时评分卡 · ★1 · forks 0 · updated 2026-07-13
 - [EmPrivacy](https://github.com/EmPlugins/EmPrivacy) - Privacy plugin for EmDash / EmDash 隐私插件 · ★0 · forks 0 · updated 2026-07-14
 - [emdash-captcha](https://github.com/Dullaz/emdash-captcha) - CAPTCHA / bot protection with pluggable providers (Turnstile first) / 验证码 / 反机器人（可插拔提供商，优先 Turnstile） · ★0 · forks 0 · updated 2026-06-23
@@ -199,14 +199,14 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [tcg-emdash-plugins](https://github.com/KURTEcl/tcg-emdash-plugins) - TCG publishing and HUB connectivity plugins / TCG 内容发布与 HUB 连接插件 · ★0 · forks 0 · updated 2026-07-19
 - [emdash-plugin-paibao-operator](https://github.com/iPythoning/emdash-plugin-paibao-operator) - Embed Paibao AI Operator (GEO content) console / 嵌入拍宝 AI Operator（GEO 内容）控制台 · ★0 · forks 0 · updated 2026-08-20
 - [emdash-injectai](https://github.com/muzammildafedar/emdash-injectai) - RAG support across files / 跨文件 RAG 支持 · ★1 · forks 0 · updated 2026-08-15
-- [emdash-learn](https://github.com/emdash-learn/emdash-learn) - Open-source LMS plugin for EmDash CMS (courses, progress) / 开源 LMS 插件（课程与学习进度） · ★0 · forks 0 · updated 2026-08-24
+- [emdash-learn](https://github.com/emdash-learn/emdash-learn) - Open-source LMS plugin for EmDash CMS (courses, progress) / 开源 LMS 插件（课程与学习进度） · ★0 · forks 0 · updated 2026-08-31
 - [emdash-reservations](https://github.com/Lenny606/emdash-reservations) - Reservations plugin monorepo + starter for EmDash / 预订插件 monorepo 与起步模板 · ★0 · forks 0 · updated 2026-07-19
 
 ### Auth & Identity / 认证与身份
 
 - [emdash-auth-provider-password](https://github.com/kalaspuffar/emdash-auth-provider-password) - Email/password authentication provider for EmDash CMS / EmDash 邮箱密码登录提供商 · ★0 · forks 0 · updated 2026-05-12
 - [emdash-plugin-password-auth (feronera)](https://github.com/feronera/emdash-plugin-password-auth) - Full email/password admin auth: login, first-admin setup, change, and recovery / 完整邮箱密码后台认证：登录、首个管理员、改密与找回 · ★0 · forks 0 · updated 2026-08-03
-- [emdash-better-auth](https://github.com/theweekendprojects/emdash-better-auth) - Email/password + Google/GitHub auth via Better Auth / Better Auth 邮箱密码与社交登录
+- [emdash-better-auth](https://github.com/theweekendprojects/emdash-better-auth) - Email/password + Google/GitHub auth via Better Auth / Better Auth 邮箱密码与社交登录 · ★1 · forks 0 · updated 2026-09-06
 
 ### Plugin Suites / 插件合集
 
@@ -232,7 +232,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
   - [fastcurve-form-email](https://github.com/fastcurveservices/emdash-plugins/tree/main/fastcurve-form-email) - Contact form submission emails via site email pipeline / 通过站点邮件管道发送联系表单通知
   - [fastcurve-audit-log](https://github.com/fastcurveservices/emdash-plugins/tree/main/fastcurve-audit-log) - Audit log for content, media, comments, email, and plugin lifecycle / 内容/媒体/评论/邮件与插件生命周期审计日志
   - [fastcurve-visitor-tracker](https://github.com/fastcurveservices/emdash-plugins/tree/main/fastcurve-visitor-tracker) - Visitor and hit tracking with admin UI / 访客与访问命中追踪（含后台）
-- [emdash-notion](https://github.com/kjfsm/emdash-notion) - Notion → EmDash sync monorepo (`@emdash-notion/sync` + `@emdash-notion/blocks`) / Notion → EmDash 同步 monorepo · ★1 · forks 0 · updated 2026-08-24
+- [emdash-notion](https://github.com/kjfsm/emdash-notion) - Notion → EmDash sync monorepo (`@emdash-notion/sync` + `@emdash-notion/blocks`) / Notion → EmDash 同步 monorepo · ★1 · forks 0 · updated 2026-09-07
   - [sync](https://github.com/kjfsm/emdash-notion/tree/main/packages/sync) - Webhook sync: Notion pages to Portable Text content / Webhook 同步：Notion 页面转 Portable Text
   - [blocks](https://github.com/kjfsm/emdash-notion/tree/main/packages/blocks) - Native Notion-style blocks (callout, toggle, to-do, etc.) / 原生 Notion 风格区块（callout、toggle、to-do 等）
 - [numoteq/emdash-plugins](https://github.com/numoteq/emdash-plugins) - NUMOTEQ EmDash plugins monorepo (`@numoteq/emdash-plugin-*`) / NUMOTEQ EmDash 插件 monorepo · ★0 · forks 0 · updated 2026-08-14
