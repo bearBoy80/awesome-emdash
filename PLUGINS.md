@@ -90,6 +90,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-plugin-compass-forms](https://github.com/ecropolis/emdash-plugin-compass-forms) - Editor Form block with stored submissions, email notify, and spam basics / 编辑器表单区块：存储提交、邮件通知与基础反垃圾 · ★0 · forks 0 · updated 2026-08-27
 - [emdash-plugin-compass-mail](https://github.com/ecropolis/emdash-plugin-compass-mail) - Email transport via SendGrid or Resend (`email:deliver`) / 通过 SendGrid 或 Resend 发送（`email:deliver`） · ★0 · forks 0 · updated 2026-08-27
 - [emdash-contact-form (incsub)](https://github.com/MJGit1974/emdash-contact-form) - Single shortcode contact form with admin submissions (`@incsub/emdash-contact-form`) / 单表单联系插件（shortcode + 后台提交）
+- [emdash-plugin-anymail](https://github.com/nexed-tech/emdash-plugin-anymail) - HTTP email:deliver via Resend, Maileroo, Mailgun, or Postmark (Workers-friendly) / HTTP 发信（Resend / Maileroo / Mailgun / Postmark，适配 Workers）
 
 ### Commerce / 电商
 
@@ -138,6 +139,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-plugin-auto-cover](https://github.com/tableau-China/emdash-plugin-auto-cover) - Auto-generate post cover images via Tencent Hunyuan AI / 基于腾讯混元 AI 自动生成文章封面 · ★0 · forks 0 · empty
 - [emdash-plugin-gallery-grid (feronera)](https://github.com/feronera/emdash-plugin-gallery-grid) - Drag-and-drop thumbnail grid field widget for image-array JSON fields / 图片数组 JSON 字段的拖拽缩略图网格组件 · ★0 · forks 0 · updated 2026-08-03
 - [emdash-plugin-neodb](https://github.com/ann61c/emdash-plugin-neodb) - NeoDB cards and a books/movies/music shelf / NeoDB 书影音卡片与 shelf
+- [emdash-blog-imgbed](https://github.com/llovely45/emdash-blog-imgbed) - Upload-only image-bed media provider (`@llovely45/emdash-blog-imgbed`) / 图床媒体库（仅上传）
 
 ### Content, Fields & Editor / 内容、字段与编辑器
 
@@ -191,6 +193,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-action-maintenance](https://github.com/bnomei/emdash-action-maintenance) - Maintenance mode for EmDash sites / EmDash 站点维护模式 · ★1 · forks 0 · updated 2026-06-27
 - [plugin-troubleshooting](https://github.com/emdash-cms/plugin-troubleshooting) - First-party troubleshooting plugin (object cache and runtime issues) / 官方故障排查插件（对象缓存与运行时问题） · ★0 · forks 0 · updated 2026-07-30
 - [emdash-insert-scripts](https://github.com/danielstanica/emdash-insert-scripts) - Inject custom scripts, styles, and HTML into head/body from the admin (native plugin) / 从后台向 head/body 注入脚本、样式与 HTML（原生插件） · ★0 · forks 0 · updated 2026-08-05
+- [relink](https://github.com/giffeler/relink) - External link inventory, link checks, and verified Wayback archives (`emdash-plugin-relink`) / 外链盘点、存活检测与 Wayback 归档
 
 ### Learning & Verticals / 学习与垂直领域
 
@@ -207,6 +210,11 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-auth-provider-password](https://github.com/kalaspuffar/emdash-auth-provider-password) - Email/password authentication provider for EmDash CMS / EmDash 邮箱密码登录提供商 · ★0 · forks 0 · updated 2026-05-12
 - [emdash-plugin-password-auth (feronera)](https://github.com/feronera/emdash-plugin-password-auth) - Full email/password admin auth: login, first-admin setup, change, and recovery / 完整邮箱密码后台认证：登录、首个管理员、改密与找回 · ★0 · forks 0 · updated 2026-08-03
 - [emdash-better-auth](https://github.com/theweekendprojects/emdash-better-auth) - Email/password + Google/GitHub auth via Better Auth / Better Auth 邮箱密码与社交登录
+- [@hellocoop/emdash](https://github.com/hellocoop/emdash) - Hellō login + OpenID Provider Commands for account lifecycle / Hellō 登录与账号生命周期（OIDC Provider Commands）
+
+### Admin UI / 后台界面
+
+- [emdash-admin-theme-classic](https://github.com/marks-zyz/emdash-admin-theme-classic) - wp-admin look for the EmDash admin panel (CSS tokens, no core patch) / 后台 wp-admin 风格主题（纯 CSS，不改核心）
 
 ### Plugin Suites / 插件合集
 

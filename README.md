@@ -136,6 +136,7 @@ Public sites built on EmDash. Source to browse — **not** reusable starters (th
 - [hirodev-fr/portfolio](https://github.com/hirodev-fr/portfolio) - HIRO DEV portfolio on EmDash + Cloudflare Workers / HIRO DEV 作品集（Workers + D1 + R2）
 - [emdash-blog (laobaiblog)](https://github.com/zqs1qiwan/emdash-blog) - Bilingual zh/en personal blog on EmDash + Cloudflare Workers / 中英双语个人博客
 - [gncroyalworks-emdash](https://github.com/jroyal/gncroyalworks-emdash) - Handmade leatherwork gallery (GNCRoyalWorks, Katy TX) on EmDash / 手作皮具作品廊
+- [landing-page (theweekendprojects)](https://github.com/theweekendprojects/landing-page) - The Weekend Projects blog + landing page ([live](https://theweekendprojects.com)) / The Weekend Projects 博客与落地页
 
 PRs welcome / 欢迎投稿.
 
