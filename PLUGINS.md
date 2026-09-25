@@ -58,6 +58,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-seo (airockstar)](https://github.com/airockstar/emdash-seo) - SEO toolkit: meta tags, OpenGraph, JSON-LD, sitemaps, and content analysis (`@ai-rockstar/emdash-seo` / `@emdash-seo/toolkit`) / SEO 工具包：meta、OG、JSON-LD、站点地图与内容分析 · ★1 · forks 0 · updated 2026-04-07
 - [emdash-seo (bergerie)](https://github.com/LandCruiserWorld/emdash-seo) - Route-aware SEO: sitemap, robots, llms.txt, and editorial audits (`@bergerie/emdash-seo`) / 按真实路由的 SEO：sitemap、robots、llms.txt 与编辑审核 · ★0 · forks 0 · updated 2026-08-20
 - [aeo-ultimate-emdash](https://github.com/tampawebtech/aeo-ultimate-emdash) - Answer-engine SEO + Schema.org graph (`@aeoultimate/emdash-aeo`) / AEO 与 Schema.org 实体图谱 · ★0 · forks 0 · updated 2026-09-16
+- [sph-emdash-plugin-sitemap-rebuild](https://github.com/merrickma/sph-emdash-plugin-sitemap-rebuild) - Dispatch sitemap rebuild jobs on post/page publish (`@sph/emdash-plugin-sitemap-rebuild`) / 发布文章/页面时投递 sitemap 重建任务
 
 ### Email & Forms / 邮件与表单
 
@@ -109,6 +110,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [chip-for-emdash](https://github.com/gmsas95/chip-for-emdash) - CHIP hosted checkout (FPX, e-wallet, card, DuitNow QR) for EmDash / CHIP 托管结账（FPX、电子钱包、卡、DuitNow QR） · ★1 · forks 0 · updated 2026-08-29
 - [dinkuskit/commerce](https://github.com/dinkuskit/commerce) - Open-source commerce layer for EmDash (`@dinkuskit/commerce`; catalog draft-item pilot) / EmDash 开源电商层（目录草稿试点） · ★0 · forks 0 · updated 2026-08-30
 - [emdash-stripe](https://github.com/tmyuu/emdash-stripe) - Stripe Checkout / Payment Intents / subscriptions from CMS entries / 按内容条目收款（Checkout、Payment Intents、订阅） · ★0 · forks 0 · updated 2026-07-03
+- [emdash-kaspa-x402-adapter](https://github.com/KaspaScopio/emdash-kaspa-x402-adapter) - Community Kaspa x402 payment backend (`@kaspascopio/emdash-kaspa-x402`; experimental) / Kaspa x402 支付适配（实验性）
 
 ### Engagement & Social / 互动与社交
 
@@ -140,6 +142,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-plugin-gallery-grid (feronera)](https://github.com/feronera/emdash-plugin-gallery-grid) - Drag-and-drop thumbnail grid field widget for image-array JSON fields / 图片数组 JSON 字段的拖拽缩略图网格组件 · ★0 · forks 0 · updated 2026-08-03
 - [emdash-plugin-neodb](https://github.com/ann61c/emdash-plugin-neodb) - NeoDB cards and a books/movies/music shelf / NeoDB 书影音卡片与 shelf · ★0 · forks 0 · updated 2026-09-04
 - [emdash-blog-imgbed](https://github.com/llovely45/emdash-blog-imgbed) - Upload-only image-bed media provider (`@llovely45/emdash-blog-imgbed`) / 图床媒体库（仅上传） · ★0 · forks 0 · updated 2026-09-11
+- [emdash-base64img-plugin](https://github.com/KazukiMiyazato2021/emdash-base64img-plugin) - Store images as base64 WebP data URLs in D1/SQLite (no R2) / 图片存为 base64 WebP（D1/SQLite，无需对象存储）
 
 ### Content, Fields & Editor / 内容、字段与编辑器
 
@@ -165,6 +168,8 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-plugin-tabler-icons](https://github.com/wenke-studio/emdash-plugin-tabler-icons) - Tabler Icons Portable Text block with searchable picker (native Astro SVG) / Tabler Icons Portable Text 区块（可搜索选择器，原生 Astro SVG） · ★0 · forks 0 · updated 2026-08-08
 - [emdash-plugin-bulk-upload](https://github.com/afonsojramos/emdash-plugin-bulk-upload) - Admin drag-and-drop bulk upload: draft entries, optional translations, month-year widget / 后台拖拽批量上传：草稿条目、可选翻译、年月字段组件 · ★0 · forks 0 · updated 2026-08-24
 - [emdash-plugin-puck](https://github.com/markoinla/emdash-plugin-puck) - Puck visual editor as a json field widget with public rendering / Puck 可视化编辑器（json 字段组件 + 前台渲染） · ★0 · forks 0 · updated 2026-09-05
+- [emdash-plugin-katex](https://github.com/ibnutoriq/emdash-plugin-katex) - Server-rendered KaTeX math blocks for Portable Text / Portable Text 服务端 KaTeX 公式块
+- [emdash-page-builder](https://github.com/undefined-charity/emdash-page-builder) - On-page word-processor editing in the live site's own styles / 前台所见即所得：按站点样式就地编辑
 
 ### Accessibility, Privacy & Security / 无障碍、隐私与安全
 
@@ -194,6 +199,8 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [plugin-troubleshooting](https://github.com/emdash-cms/plugin-troubleshooting) - First-party troubleshooting plugin (object cache and runtime issues) / 官方故障排查插件（对象缓存与运行时问题） · ★0 · forks 0 · updated 2026-07-30
 - [emdash-insert-scripts](https://github.com/danielstanica/emdash-insert-scripts) - Inject custom scripts, styles, and HTML into head/body from the admin (native plugin) / 从后台向 head/body 注入脚本、样式与 HTML（原生插件） · ★0 · forks 0 · updated 2026-08-05
 - [relink](https://github.com/giffeler/relink) - External link inventory, link checks, and verified Wayback archives (`emdash-plugin-relink`) / 外链盘点、存活检测与 Wayback 归档 · ★0 · forks 0 · updated 2026-09-18
+- [EmDash-Github-Content](https://github.com/tas0dev/EmDash-Github-Content) - Import GitHub Markdown into EmDash Portable Text / 从 GitHub Markdown 导入 Portable Text
+- [tidysites-platform](https://github.com/4sons/tidysites-platform) - Tidysites `/_tidy/*` routes and publish hooks (`@tideworthy/tidysites-platform`) / Tidysites 平台路由与发布钩子
 
 ### Learning & Verticals / 学习与垂直领域
 
@@ -204,6 +211,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-injectai](https://github.com/muzammildafedar/emdash-injectai) - RAG support across files / 跨文件 RAG 支持 · ★1 · forks 0 · updated 2026-08-15
 - [emdash-learn](https://github.com/emdash-learn/emdash-learn) - Open-source LMS plugin for EmDash CMS (courses, progress) / 开源 LMS 插件（课程与学习进度） · ★0 · forks 0 · updated 2026-09-14
 - [emdash-reservations](https://github.com/Lenny606/emdash-reservations) - Reservations plugin monorepo + starter for EmDash / 预订插件 monorepo 与起步模板 · ★0 · forks 0 · updated 2026-07-19
+- [eventual](https://github.com/Vermeulen-Solutions/eventual-emdash-sandbox) - Sandboxed events plugin: venues, recurrence, JSON/iCalendar feeds / 沙箱活动插件：场地、重复日程、JSON/iCal 订阅
 
 ### Auth & Identity / 认证与身份
 
@@ -215,6 +223,11 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 ### Admin UI / 后台界面
 
 - [emdash-admin-theme-classic](https://github.com/marks-zyz/emdash-admin-theme-classic) - wp-admin look for the EmDash admin panel (CSS tokens, no core patch) / 后台 wp-admin 风格主题（纯 CSS，不改核心） · ★0 · forks 0 · updated 2026-09-15
+
+### Search / 搜索
+
+- [emdash-ai-search](https://github.com/theweekendprojects/emdash-ai-search) - Drop-in AI search + chat via Cloudflare AI Search / Cloudflare AI Search 搜索与对话
+- [emdash-rag](https://github.com/theweekendprojects/emdash-rag) - Semantic search + RAG chat (Workers AI / Vectorize or sandboxed REST) / 语义搜索与 RAG 对话
 
 ### Plugin Suites / 插件合集
 
@@ -245,6 +258,8 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
   - [blocks](https://github.com/kjfsm/emdash-notion/tree/main/packages/blocks) - Native Notion-style blocks (callout, toggle, to-do, etc.) / 原生 Notion 风格区块（callout、toggle、to-do 等）
 - [numoteq/emdash-plugins](https://github.com/numoteq/emdash-plugins) - NUMOTEQ EmDash plugins monorepo (`@numoteq/emdash-plugin-*`) / NUMOTEQ EmDash 插件 monorepo · ★0 · forks 0 · updated 2026-08-14
   - [forward-email](https://github.com/numoteq/emdash-plugins/tree/main/packages/forward-email) - Forward Email transport provider (sandbox-compatible) / Forward Email 邮件传输提供商（兼容沙箱）
+- [eisbachcode/emdash-plugins](https://github.com/eisbachcode/emdash-plugins) - Eisbachcode EmDash plugins (`@eisbachcode/emdash-plugin-*`) / Eisbachcode EmDash 插件合集
+  - [analytics](https://github.com/eisbachcode/emdash-plugins/tree/main/packages/analytics) - Cloudflare Web Analytics on the dashboard and per entry / Cloudflare Web Analytics（看板 + 按条目）
 
 PRs welcome / 欢迎投稿.
 

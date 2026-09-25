@@ -68,6 +68,8 @@ PRs welcome / 欢迎投稿 — see [PLUGINS.md](./PLUGINS.md) and [CONTRIBUTING.
 - [emdash-mt-import](https://github.com/kennyg/emdash-mt-import) - CLI: import Movable Type blog exports into EmDash seed JSON / CLI：将 Movable Type 导出导入 EmDash seed JSON
 - [migrate-site-skill](https://github.com/Iceberg-Media/migrate-site-skill) - Agent skill scaffold for deterministic website → Astro/EmDash migrations / 网站 → Astro/EmDash 确定性迁移的 Agent skill 脚手架
 - [emdash-platform-wfp](https://github.com/scottbuscemi/emdash-platform-wfp) - Prompt-to-site builder on Cloudflare Workers for Platforms + EmDash / 基于 Workers for Platforms 的一句话建站
+- [emdash-docker (rubengmez)](https://github.com/rubengmez/emdash-docker) - Unofficial multi-arch OCI images rebuilt from each EmDash release / 非官方多架构镜像（随上游发版重建）
+- [compose-cli](https://github.com/Compose-Project/compose-cli) - Scaffold a new EmDash app from the Compose blank template (`@emdash-compose/compose-cli`) / 从 Compose 空白模板脚手架新站点
 
 PRs welcome / 欢迎投稿.
 
@@ -137,6 +139,12 @@ Public sites built on EmDash. Source to browse — **not** reusable starters (th
 - [emdash-blog (laobaiblog)](https://github.com/zqs1qiwan/emdash-blog) - Bilingual zh/en personal blog on EmDash + Cloudflare Workers / 中英双语个人博客
 - [gncroyalworks-emdash](https://github.com/jroyal/gncroyalworks-emdash) - Handmade leatherwork gallery (GNCRoyalWorks, Katy TX) on EmDash / 手作皮具作品廊
 - [landing-page (theweekendprojects)](https://github.com/theweekendprojects/landing-page) - The Weekend Projects blog + landing page ([live](https://theweekendprojects.com)) / The Weekend Projects 博客与落地页
+- [abricocotier_emd_blog](https://github.com/louisvolant/abricocotier_emd_blog) - Abricocotier v2 personal blog ([live](https://v2.abricocotier.fr)) / Abricocotier v2 个人博客
+- [ahmetenes](https://github.com/potasyumhidroksit/ahmetenes) - Persona Bio personal profile + blog, self-hosted Node + SQLite ([live](https://ahmetenes.com)) / Persona Bio 个人简介博客（Node + SQLite）
+- [puppets](https://github.com/mrmt/puppets) - puppets.jp (records label) migrated from Tumblr ([live](https://puppets.jp)) / puppets.jp 厂牌站（Tumblr 迁入）
+- [sui-blog](https://github.com/Suntory-N-Water/sui-blog) - Personal blog on EmDash + Cloudflare ([live](https://suntory-n-water.com)) / EmDash 个人博客
+- [samuel-paluba-site](https://github.com/SamuelPalubaCZ/samuel-paluba-site) - Personal blog + portfolio on EmDash + Cloudflare Workers / 个人博客与作品集
+- [temis](https://github.com/schiste/temis) - Static Astro site + separate EmDash CMS Worker (D1/R2 snapshot publish) / 静态 Astro 站 + 独立 EmDash CMS Worker
 
 PRs welcome / 欢迎投稿.
 

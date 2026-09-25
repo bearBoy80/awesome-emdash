@@ -104,6 +104,9 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [cloudflare-free-emdash-starter](https://github.com/saviour123/cloudflare-free-emdash-starter) - Minimal EmDash blog on Cloudflare Workers + D1 + R2 / Cloudflare Workers + D1 + R2 极简 EmDash 博客 · ★0 · forks 0 · updated 2026-06-06
 - [emdash-astro-template-1](https://github.com/Begin-Source/emdash-astro-template-1) - EmDash blog template for Cloudflare Workers + D1 + R2 / EmDash 博客模板（Cloudflare Workers + D1 + R2） · ★0 · forks 0 · updated 2026-04-13
 - [emdash-theme-sylee-newsletter](https://github.com/siygle/emdash-theme-sylee-newsletter) - Newsletter theme inspired by sylee.dev ([preview](https://sylee.dev/newsletter/)) / 受 sylee.dev 启发的 newsletter 主题 · ★0 · forks 0 · updated 2026-08-30
+- [Reef](https://github.com/alohapixelcom-hash/reef) - Bilingual EN/FR Astro blog theme with EmDash back office / 英/法双语博客主题（EmDash 后台）
+- [Masthead](https://github.com/ondelva/astro-theme-masthead) - Newspaper-style news theme ([demo](https://masthead-free.ondelva.com)) / 报纸风格新闻主题
+- [emdash-site-blog-starter](https://github.com/WellDunDun/emdash-site-blog-starter) - AI-ready marketing + blog starter (D1/R2, search, RSS, modular blocks) / 营销站 + 博客起步模板（D1/R2、搜索、RSS、模块化区块）
 
 ### Marketing & Landing / 营销与落地页
 
@@ -116,6 +119,7 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [emdash-themes (saviour123)](https://github.com/saviour123/emdash-themes) - EmDash portfolio template for Cloudflare Workers / EmDash 作品集模板（Cloudflare Workers） · ★0 · forks 0 · updated 2026-08-04
 - [crafted](https://github.com/adpena/crafted) - Portfolio and campaign action-page engine on EmDash + Cloudflare / EmDash + Cloudflare 作品集与活动行动页引擎 · ★0 · forks 0 · updated 2026-08-13
 - [minastro](https://github.com/frankievalentine/minastro) - EmDash-first personal-site template (Astro + Cloudflare Workers) ([demo](https://minastro.pages.dev)) / EmDash 优先的个人站模板（Astro + Cloudflare Workers） · ★0 · forks 0 · updated 2026-09-09
+- [emdash-theme-persona-bio](https://github.com/ahmetcigsar/emdash-theme-persona-bio) - Personal profile + blog theme for EmDash + Astro / 个人简介与博客主题
 
 ### Commerce & Business / 电商与商业
 

@@ -61,6 +61,7 @@ Add community plugins to [PLUGINS.md](./PLUGINS.md) under the best **Community**
 | Auth & Identity / 认证与身份 | Login providers, membership auth methods |
 | Plugin Suites / 插件合集 | Multi-plugin monorepos / catalogs |
 | Admin UI / 后台界面 | Admin panel themes, admin CSS, dashboard chrome |
+| Search / 搜索 | Site search, AI search, RAG chat |
 
 If nothing fits, **add a new category** under Community (bilingual `### English / 中文` heading when possible), put the entry there, and add the category to the table above. Prefer a domain-level name that can hold more than one project. Do not force-fit into an unrelated section.
 
