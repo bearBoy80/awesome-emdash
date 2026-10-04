@@ -28,6 +28,8 @@ EmDash is a full-stack TypeScript CMS that aims to be the spiritual successor to
 - [EmDash Website](https://emdashcms.com/) - Project homepage / 项目官网
 - [Plugin Development Guide](https://docs.emdashcms.com/plugins/creating-plugins/your-first-plugin/) - Official guide to building sandboxed plugins / 官方沙箱插件开发指南
 - [wp-emdash](https://github.com/emdash-cms/wp-emdash) - Official plugins to help transition from WordPress to EmDash / 官方 WordPress → EmDash 迁移辅助插件
+- [EmDash Build](https://github.com/emdash-cms/emdash-build) - Chat-based AI site builder for editable EmDash sites ([demo](https://build.emdashcms.com/)) / 对话式 AI 建站（生成可编辑的 EmDash 站点）
+- [emdash-cms/skills](https://github.com/emdash-cms/skills) - Official agent skills: sites, plugins, CLI, WordPress ports (`npx skills add emdash-cms/skills`) / 官方 Agent 技能：建站、插件、CLI、WordPress 移植
 
 ## Templates / 模板
 
@@ -70,6 +72,10 @@ PRs welcome / 欢迎投稿 — see [PLUGINS.md](./PLUGINS.md) and [CONTRIBUTING.
 - [emdash-platform-wfp](https://github.com/scottbuscemi/emdash-platform-wfp) - Prompt-to-site builder on Cloudflare Workers for Platforms + EmDash / 基于 Workers for Platforms 的一句话建站
 - [emdash-docker (rubengmez)](https://github.com/rubengmez/emdash-docker) - Unofficial multi-arch OCI images rebuilt from each EmDash release / 非官方多架构镜像（随上游发版重建）
 - [compose-cli](https://github.com/Compose-Project/compose-cli) - Scaffold a new EmDash app from the Compose blank template (`@emdash-compose/compose-cli`) / 从 Compose 空白模板脚手架新站点
+- [n8n-nodes-emdash](https://github.com/BlackSwampAI/n8n-nodes-emdash) - n8n community nodes for EmDash CMS REST (`@blackswampai/n8n-nodes-emdash`) / n8n 社区节点：内容、媒体、评论、重定向等
+- [emdash-container](https://github.com/neobuilds/emdash-container) - Independent multi-arch container packaging of upstream EmDash Blog (`ghcr.io/neobuilds/emdash`) / 非官方多架构容器镜像（上游 Blog 模板）
+- [emd](https://github.com/kristianfreeman/emd) - Native Mac app for writing on an EmDash site (Markdown, upload, draft/publish) / macOS 原生写作 App（Markdown、上传、草稿/发布）
+- [emdash-sync-cli](https://github.com/Sena/emdash-sync-cli) - Pull production D1 + R2 into local Wrangler for EmDash development / 把线上 D1/R2 同步到本地 Wrangler
 
 PRs welcome / 欢迎投稿.
 
@@ -80,6 +86,7 @@ PRs welcome / 欢迎投稿.
 - [Introducing EmDash — WordPress Plugin Security Rebuilt](https://blog.cloudflare.com/emdash-wordpress/) - Official Cloudflare announcement / 官方介绍
 - [emdash-tutorial](https://github.com/maxali/emdash-tutorial) - Editorial developer tutorial for EmDash CMS (Cloudflare Workers) / EmDash 开发者教程站（Cloudflare Workers）
 - [tzu-chi-vibe-coding-emdash](https://github.com/phoenix581228/tzu-chi-vibe-coding-emdash) - University Vibe Coding teaching pack: demo site, student starter, plugin example, and skills / 大学 Vibe Coding 教学包：演示站、学员 starter、插件示例与 skills
+- [HiEmdash Docs](https://github.com/web-casa/emdash-docs) - Community multilingual docs: onboarding, FAQ, translations ([live](https://docs.hiemdash.com)) / 社区多语言文档：入门、FAQ、翻译
 
 PRs welcome / 欢迎投稿.
 
@@ -145,6 +152,16 @@ Public sites built on EmDash. Source to browse — **not** reusable starters (th
 - [sui-blog](https://github.com/Suntory-N-Water/sui-blog) - Personal blog on EmDash + Cloudflare ([live](https://suntory-n-water.com)) / EmDash 个人博客
 - [samuel-paluba-site](https://github.com/SamuelPalubaCZ/samuel-paluba-site) - Personal blog + portfolio on EmDash + Cloudflare Workers / 个人博客与作品集
 - [temis](https://github.com/schiste/temis) - Static Astro site + separate EmDash CMS Worker (D1/R2 snapshot publish) / 静态 Astro 站 + 独立 EmDash CMS Worker
+- [blog (mrepol742)](https://github.com/mrepol742/blog) - Personal blog on EmDash + Cloudflare Workers ([live](https://blog.melvinjonesrepol.com)) / EmDash 个人博客
+- [repoglance-site](https://github.com/saari-co/repoglance-site) - RepoGlance marketing site on Astro + EmDash ([live](https://repoglance.com)) / RepoGlance 营销站
+- [dinkuskit](https://github.com/dinkuskit/dinkuskit) - DinkusKit hosted-commerce site + merchant auth on EmDash + Cloudflare / DinkusKit 托管电商站（含商家登录）
+- [digitas-emdash](https://github.com/tengkuhaidi/digitas-emdash) - PT Digitas Solusi Indonesia holding site (Astro + Shadcn + Framer Motion, D1/R2) / PT Digitas 集团站
+- [mumc-emdash](https://github.com/peteketcham/mumc-emdash) - Minnehaha UMC site ported from Hugo (same design, EmDash admin) / 从 Hugo 迁入的教会站
+- [film-emdash](https://github.com/wwwworldwide/film-emdash) - Film-review blog on EmDash + Cloudflare Workers / 影评博客
+- [Northfield & Co.](https://github.com/ShaneMuir/Fictional-estate-agent) - Fictional UK estate-agency demo (listings and copy from EmDash) / 虚构英国房产中介演示站
+- [gawd-emdash](https://github.com/samcarrington/gawd-emdash) - Personal blog on the official EmDash Node blog template ([live](https://gawd-emdash.vercel.app)) / 基于官方 Node 博客模板的个人博客
+- [Austin Heat & Cool](https://github.com/nesilozer/emdash-austin-demo) - HVAC / plumbing demo site on EmDash + Astro / HVAC / 管道本地站演示
+- [ubosite-2026](https://github.com/uboar/ubosite-2026) - Personal blog + portfolio + links on EmDash ([live](https://uboar.net)) / 个人博客、作品集与链接页
 
 PRs welcome / 欢迎投稿.
 
@@ -162,6 +179,8 @@ PRs welcome / 欢迎投稿.
 - [EmDash Discord](https://discord.com/invite/YY9vBaQRYt) - Chat with maintainers and community / 与维护者及社区交流
 - [EmDash on X / Twitter](https://x.com/EmDashCMS) - Official account / 官方账号
 - [aceitw/awesome-emdash](https://github.com/aceitw/awesome-emdash) - Community curated list of EmDash CMS plugins and resources / 社区维护的 EmDash 插件与资源精选列表
+- [theweekendprojects/awesome-emdash](https://github.com/theweekendprojects/awesome-emdash) - Community curated list of EmDash plugins, themes, and resources / 社区维护的插件、主题与资源列表
+- [farhanmasud/awesome-emdash](https://github.com/farhanmasud/awesome-emdash) - Community curated list of EmDash plugins, themes, tools, and Astro integrations / 社区维护的插件、主题、工具与 Astro 集成列表
 
 ## Contributing / 贡献
 
