@@ -162,6 +162,21 @@ Public sites built on EmDash. Source to browse — **not** reusable starters (th
 - [gawd-emdash](https://github.com/samcarrington/gawd-emdash) - Personal blog on the official EmDash Node blog template ([live](https://gawd-emdash.vercel.app)) / 基于官方 Node 博客模板的个人博客
 - [Austin Heat & Cool](https://github.com/nesilozer/emdash-austin-demo) - HVAC / plumbing demo site on EmDash + Astro / HVAC / 管道本地站演示
 - [ubosite-2026](https://github.com/uboar/ubosite-2026) - Personal blog + portfolio + links on EmDash ([live](https://uboar.net)) / 个人博客、作品集与链接页
+- [website-emdash (tomascorreia.net)](https://github.com/corrreia/website-emdash) - Personal site on EmDash + Cloudflare Workers ([live](https://tomascorreia.net)) / 个人站（Workers）
+- [Rotherham Virtual School](https://github.com/jonnyhaynes/rotherham-virtual-school) - Prototype: Astro + EmDash + GOV.UK Design System ([live](https://virtual-school.colouringcode.com)) / 原型站：Astro + EmDash + GOV.UK
+- [INFLU](https://github.com/line-ec-lea/influ-hp-v3) - INFLU company site on EmDash + Cloudflare ([live](https://influhp.com)) / INFLU 企业站
+- [Nixon Creative Studio](https://github.com/NateJ45/nixoncreativestudio) - Studio site: Astro + EmDash on Cloudflare (D1/R2) ([live](https://www.nixoncreativestudio.com)) / 工作室站点
+- [remy-sport-emdash](https://github.com/joeblew999/remy-sport-emdash) - Remy Sport public site on EmDash + emdash-run ([live](https://remy.ubuntusoftware.net)) / Remy Sport 公开站
+- [foodshelf-emdash](https://github.com/peteketcham/foodshelf-emdash) - Minnehaha Food Shelf (EN/ES), same theme as the church EmDash site / 教会食物银行站（英/西）
+- [EmDash HQ](https://github.com/bitdoze/emdashhq.com) - Community hub: tutorials, themes, plugins, services ([live](https://emdashhq.com)) / EmDash 社区枢纽站
+- [Suda Pulse](https://github.com/daocatt/emdash-pulse) - Agent-assisted newsroom on EmDash (review/editorial/SEO plugins) ([live](https://ai.suda.im)) / Agent 协作新闻站
+- [jakebodea/sites](https://github.com/jakebodea/sites) - Agency monorepo of client marketing sites (Astro + EmDash + Alchemy) / 客户营销站 monorepo
+- [personal-website (andrewruddy.com)](https://github.com/andrewmruddy/personal-website) - Portfolio on EmDash + Cloudflare Workers ([live](https://andrewruddy.com)) / 作品集站
+- [itsdd.vn](https://github.com/itsddvn/itsddvn-emdash) - Bilingual VI/EN editorial site on EmDash + Cloudflare ([live](https://itsdd.vn)) / 越/英双语编辑向站点
+- [99ways-Redesign-EmDash](https://github.com/josebbk/99ways-Redesign-EmDash) - 99Ways redesign on EmDash + Node ([live](https://99ways-emdash-deo.josebbk.com)) / 99Ways 重建站
+- [emdash-coffee-n-code](https://github.com/therealfuntimeswithdanny/emdash-coffee-n-code) - Coffee & Code site on EmDash + ATProto ([live](https://emdash.coffeencode.cc)) / Coffee & Code 站点（含 ATProto）
+- [zano-emdash-site](https://github.com/Zahn-al/zano-emdash-site) - Personal site on EmDash + Cloudflare ([live](https://a-zano.com)) / 个人站
+- [coinradar-emdash](https://github.com/ZenDangVN/coinradar-emdash) - CoinRadar site on EmDash + Cloudflare (Tailwind, D1/R2) / CoinRadar 站点
 
 PRs welcome / 欢迎投稿.
 

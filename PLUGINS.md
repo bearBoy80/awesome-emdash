@@ -62,6 +62,8 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-tracking-scripts](https://github.com/ShaneMuir/emdash-tracking-scripts) - Native plugin: inject GTM, GA4/gtag, Lead Forensics, or raw snippets from admin (`@tribusdigital/emdash-tracking-scripts`) / 后台注入 GTM、GA4 或自定义追踪脚本 · ★0 · forks 0 · updated 2026-09-30
 - [emdash-plugin-openanalytics](https://github.com/BlackSwampAI/emdash-plugin-openanalytics) - OpenAnalytics tracker + admin overview (native `page:fragments`) / OpenAnalytics 追踪与后台概览 · ★0 · forks 0 · updated 2026-09-30
 - [emdash-analytics (incsub)](https://github.com/neelg12/emdash-analytics) - Drop-in GA4 Measurement ID in admin (`@incsub/emdash-analytics`, WPMU DEV) / 后台填写 GA4 ID 即可全站追踪 · ★0 · forks 0 · updated 2026-05-26
+- [emdash-plugin-indexnow](https://github.com/jesseagleboy/emdash-plugin-indexnow) - Ping IndexNow when entries are published or unpublished / 发布或下线时向 IndexNow 推送
+- [emdash-seo-suite-plugin](https://github.com/nookeshkarri7/emdash-seo-suite-plugin) - SEO coaching on top of built-in SEO: keyphrase, JSON-LD, redirects, health scan / 内置 SEO 之上的分析与辅导：关键词、JSON-LD、重定向、健康扫描
 
 ### Email & Forms / 邮件与表单
 
@@ -98,6 +100,8 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-forms (netdollar)](https://github.com/charl-kruger/emdash-forms) - Admin form builder + site renderer: multi-step forms, inbox, CSV, MCP (`@netdollar.dev/forms`) / 后台表单构建器 + 前台渲染（多步表单、收件箱、CSV、MCP） · ★0 · forks 0 · updated 2026-09-29
 - [emdash-plugin-comment-notify](https://github.com/DavidPivert/emdash-plugin-comment-notify) - Email admins on every new comment, including the moderation queue / 新评论（含待审）邮件通知管理员 · ★0 · forks 0 · updated 2026-09-29
 - [emdash-sendmail](https://github.com/wpmudev/emdash-sendmail) - sendmail transport for WPMU DEV Hosting (`@incsub/emdash-sendmail`) / 面向 WPMU DEV Hosting 的 sendmail 发信 · ★2 · forks 0 · updated 2026-06-01
+- [emdash-emailit (gatilab)](https://github.com/gatilab/emdash-emailit) - Emailit transport for system and plugin mail (`@gatilab/emdash-emailit`) / Emailit 邮件传输（系统邮件与插件发信）
+- [emdash-lead-capture](https://github.com/gatilab/emdash-lead-capture) - Lead-magnet block: gated download, double opt-in, admin inbox (`@gatilab/emdash-lead-capture`) / 线索磁铁区块：门禁下载、二次确认、后台收件箱
 
 ### Commerce / 电商
 
@@ -156,6 +160,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-blog-imgbed](https://github.com/llovely45/emdash-blog-imgbed) - Upload-only image-bed media provider (`@llovely45/emdash-blog-imgbed`) / 图床媒体库（仅上传） · ★0 · forks 0 · updated 2026-09-11
 - [emdash-base64img-plugin](https://github.com/KazukiMiyazato2021/emdash-base64img-plugin) - Store images as base64 WebP data URLs in D1/SQLite (no R2) / 图片存为 base64 WebP（D1/SQLite，无需对象存储） · ★0 · forks 0 · updated 2026-09-24
 - [emdash-media-unsplash](https://github.com/danielnv18/emdash-media-unsplash) - Native Unsplash media provider for the EmDash picker / Unsplash 媒体库提供商 · ★0 · forks 0 · updated 2026-09-29
+- [emdash-dynamic-qr](https://github.com/nookeshkarri7/emdash-dynamic-qr) - Dynamic QR codes with style presets, live preview, and scan analytics / 动态二维码：样式预设、实时预览与扫码统计
 
 ### Content, Fields & Editor / 内容、字段与编辑器
 
@@ -188,6 +193,10 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [origin-emdash-uniq](https://github.com/stephanedemotte/origin-emdash-uniq) - Singleton collections: one entry per locale for Home/About-style pages / 单例集合：每个语言一条（首页/关于页） · ★0 · forks 0 · updated 2026-09-28
 - [emdash-cms-sheet-to-table](https://github.com/alamriku/emdash-cms-sheet-to-table) - Live searchable/sortable tables from Google Sheets (`emdash-plugin-sheet-table`) / 把 Google 表格变成可搜索可排序表格 · ★0 · forks 0 · updated 2026-10-05
 - [emdash-document-revisions](https://github.com/benbalter/emdash-document-revisions) - Versioned private files in R2 with permission-checked permalinks (WP Document Revisions port) / R2 私有文档版本管理（WP Document Revisions 移植） · ★0 · forks 0 · updated 2026-10-05
+- [emdash-content-blocks](https://github.com/gatilab/emdash-content-blocks) - Editorial Portable Text blocks: FAQ, callout, review, comparison (`@gatilab/emdash-content-blocks`) / 编辑向 Portable Text 区块：FAQ、callout、评测、对比
+- [emdash-dynamic-dates](https://github.com/gatilab/emdash-dynamic-dates) - Render-time date shortcodes (`[year]`, `[age]`, countdowns) (`@gatilab/emdash-dynamic-dates`) / 渲染时日期短代码（年份、年龄、倒计时）
+- [emdash-plugin-custom-404](https://github.com/azydeco/emdash-plugin-404) - Editors configure the public 404 page from admin (`@azydeco/emdash-plugin-custom-404`) / 后台配置站点 404 页面
+- [EmVB](https://github.com/PerkyZZ999/EmVB) - Visual page builder for EmDash admin (`@perkyzz/emvb`) / EmDash 可视化页面构建器
 
 ### Accessibility, Privacy & Security / 无障碍、隐私与安全
 
@@ -229,6 +238,8 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-plugin-content-link-check](https://github.com/eisbachcode/emdash-plugin-content-link-check) - Scheduled link audit: broken links, dead domains, redirects / 定时链接巡检：死链、失效域名、重定向 · ★0 · forks 0 · updated 2026-09-29
 - [emdash-plugin-content-freshness](https://github.com/eisbachcode/emdash-plugin-content-freshness) - Scheduled freshness audit: stale entries, weak SEO, missed schedules / 定时内容保鲜审核：过期条目、弱 SEO、错过的定时发布 · ★0 · forks 0 · updated 2026-09-29
 - [Coywolf Pack](https://github.com/coywolf-llc/coywolf-pack) - Cloudflare pack: backups/restore, extra redirects, TOC, downloads, IndexNow (`@coywolf/emdash`) / Cloudflare 功能包：备份恢复、扩展重定向、目录、下载、IndexNow · ★2 · forks 1 · updated 2026-10-05
+- [emdash-maintenance-mode](https://github.com/bempensato/emdash-maintenance-mode) - Maintenance / coming-soon page with editor bypass and secret guest links / 维护/即将上线页（编辑可绕过、访客密钥链接）
+- [emdash-header-footer-code](https://github.com/jithinsk/emdash-header-footer-code) - Inject analytics, verification tags, chat widgets, CSS/JS into head or body / 向 head/body 注入分析、验证标签、聊天组件与 CSS/JS
 
 ### Learning & Verticals / 学习与垂直领域
 
