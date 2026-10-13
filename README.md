@@ -76,6 +76,8 @@ PRs welcome / 欢迎投稿 — see [PLUGINS.md](./PLUGINS.md) and [CONTRIBUTING.
 - [emdash-container](https://github.com/neobuilds/emdash-container) - Independent multi-arch container packaging of upstream EmDash Blog (`ghcr.io/neobuilds/emdash`) / 非官方多架构容器镜像（上游 Blog 模板）
 - [emd](https://github.com/kristianfreeman/emd) - Native Mac app for writing on an EmDash site (Markdown, upload, draft/publish) / macOS 原生写作 App（Markdown、上传、草稿/发布）
 - [emdash-sync-cli](https://github.com/Sena/emdash-sync-cli) - Pull production D1 + R2 into local Wrangler for EmDash development / 把线上 D1/R2 同步到本地 Wrangler
+- [app-composer](https://github.com/loftwah/app-composer) - Agent-operated mini-app composer on EmDash + Cloudflare Workers ([live](https://composer.loftwah.com)) / 基于 EmDash + Workers 的 Agent 小应用编排平台
+- [emdash-kit](https://github.com/xPonential-Labs/emdash-kit) - Shared Worker entry, Astro config, and content tools for Cloudflare Workers Free sites / 面向 Workers Free 站点的共享 Worker 入口、Astro 配置与内容工具
 
 PRs welcome / 欢迎投稿.
 
@@ -177,6 +179,14 @@ Public sites built on EmDash. Source to browse — **not** reusable starters (th
 - [emdash-coffee-n-code](https://github.com/therealfuntimeswithdanny/emdash-coffee-n-code) - Coffee & Code site on EmDash + ATProto ([live](https://emdash.coffeencode.cc)) / Coffee & Code 站点（含 ATProto）
 - [zano-emdash-site](https://github.com/Zahn-al/zano-emdash-site) - Personal site on EmDash + Cloudflare ([live](https://a-zano.com)) / 个人站
 - [coinradar-emdash](https://github.com/ZenDangVN/coinradar-emdash) - CoinRadar site on EmDash + Cloudflare (Tailwind, D1/R2) / CoinRadar 站点
+- [kanade-emdash (duanap.cn)](https://github.com/duanap/index) - Kanade-layout blog on EmDash ([live](https://duanap.cn)) / 保留 Kanade 界面、用 EmDash 管理内容
+- [portfolio-v4 (nayreisme.dev)](https://github.com/epn-andy/portfolio-v4) - Portfolio + engineering blog: EmDash + ATProto, Medium-style typography ([live](https://nayreisme.dev)) / 作品集与工程博客（ATProto）
+- [biancafiore](https://github.com/fbuireu/biancafiore) - Writer portfolio + blog on EmDash + Cloudflare Workers ([live](https://biancafiore.me)) / 撰稿人作品集与博客
+- [gikou-site](https://github.com/gikou-lab/gikou-site) - GIKOU homepage on EmDash + Cloudflare Workers ([live](https://gikou.dev)) / GIKOU 主页
+- [benefitgym](https://github.com/erickochen/benefitgym) - Benefit Gym (Schijndel) on EmDash + Cloudflare (D1/R2, forms) / Benefit Gym 站点
+- [wadaonline-emdash](https://github.com/justinloffler/wadaonline-emdash) - Western Area Darts Association site on EmDash (Node + SQLite) / 西区飞镖协会站点
+- [ankur-emdash](https://github.com/Webbound-dev/ankur-emdash) - Ankur Salt production UI on EmDash + Cloudflare (D1/R2) / Ankur Salt 生产站（沿用原 UI）
+- [vc-emdash-sample](https://github.com/yto/vc-emdash-sample) - Vibecoding EmDash tutorial reference blog ([live](https://emdash-sample.vibecodingnotes.com)) / Vibecoding 教程参考博客
 
 PRs welcome / 欢迎投稿.
 
@@ -196,6 +206,7 @@ PRs welcome / 欢迎投稿.
 - [aceitw/awesome-emdash](https://github.com/aceitw/awesome-emdash) - Community curated list of EmDash CMS plugins and resources / 社区维护的 EmDash 插件与资源精选列表
 - [theweekendprojects/awesome-emdash](https://github.com/theweekendprojects/awesome-emdash) - Community curated list of EmDash plugins, themes, and resources / 社区维护的插件、主题与资源列表
 - [farhanmasud/awesome-emdash](https://github.com/farhanmasud/awesome-emdash) - Community curated list of EmDash plugins, themes, tools, and Astro integrations / 社区维护的插件、主题、工具与 Astro 集成列表
+- [bearBoy80/awesome-emdash](https://github.com/bearBoy80/awesome-emdash) - Community curated list of EmDash plugins, templates, and resources / 社区维护的插件、模板与资源精选列表
 
 ## Contributing / 贡献
 

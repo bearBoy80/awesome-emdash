@@ -93,6 +93,7 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 
 - [emdash-template-marketplace](https://github.com/pk1983/emdash-template-marketplace) - MVP marketplace for EmDash templates / EmDash 模板市场（MVP） · ★0 · forks 0 · updated 2026-07-11
 - [emdashthemes.com](https://github.com/smrht/emdashthemes.com) - Visitor-first EmDash theme directory and guide hub / 面向访客的 EmDash 主题目录与指南站 · ★0 · forks 0 · updated 2026-04-01
+- [StellantAI/astro-templates](https://github.com/StellantAI/astro-templates) - Free Astro + EmDash website/app starters for the LibreApps Docker launcher / LibreApps Docker 启动器用的免费 Astro + EmDash 起步模板
 
 ### Blog & Content / 博客与内容
 
@@ -130,6 +131,7 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [emdash-theme-mainstreet](https://github.com/ecropolis/emdash-theme-mainstreet) - Service-business theme: pricing, team, hours, booking CTAs ([demo](https://mainstreet.superherotech.ai)) / 本地服务主题：定价、团队、营业时间、预约 CTA · ★0 · forks 0 · updated 2026-08-27
 - [emdash-theme-supper](https://github.com/ecropolis/emdash-theme-supper) - Restaurant theme: structured menu, hours, gallery, reservations ([demo](https://supper.superherotech.ai)) / 餐厅主题：结构化菜单、营业时间、图库、预订 · ★0 · forks 0 · updated 2026-08-27
 - [TerraSuite](https://github.com/havenswift-hosting/terrasuite-emdash) - Estate-agency template: property collection, filtered search, area pages ([demo](https://emdash.terrasuite.uk/)) / 房产中介模板：房源集合、筛选搜索、区域页 · ★0 · forks 0 · updated 2026-09-29
+- [DashCommerce starter](https://github.com/emdashCommerce/starter) - Official Astro storefront for `@dashcommerce/core` ([demo](https://demo.dashcommerce.dev)) / DashCommerce 官方店面起步模板
 
 ### Themes / 主题
 
@@ -145,6 +147,9 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [emdash-starter (traone)](https://github.com/traone/emdash-starter) - General-purpose Cloudflare Workers starter (posts, pages, tags; tinywind base) / 通用 Cloudflare Workers 起步模板（文章/页面/标签；tinywind 基底） · ★0 · forks 0 · updated 2026-08-06
 - [astro-emdash-libsql-r2-starter](https://github.com/milzamsz/astro-emdash-libsql-r2-starter) - Astro + EmDash starter for Dokploy with native libSQL + Cloudflare R2 / Dokploy 起步模板：原生 libSQL + Cloudflare R2 · ★0 · forks 0 · updated 2026-09-18
 - [emdash-template (Sevalla)](https://github.com/sevalla-templates/emdash-template) - Official blog template adapted for Sevalla (Postgres, object storage, edge cache, Dockerfile) / 面向 Sevalla 的官方博客模板（Postgres、对象存储、边缘缓存） · ★0 · forks 0 · updated 2026-10-01
+- [emdash-railway](https://github.com/aimranov27/emdash-railway) - Railway one-click EmDash blog on Postgres + persistent media volume / Railway 一键部署 EmDash 博客（Postgres + 持久化媒体卷）
+- [EmDash Blueprint (Rock8Cloud)](https://github.com/rock8-cloud/astro-emdash-marketing-page) - Marketing-site starter for Rock8Cloud (Postgres, S3, Bun Dockerfile) / 面向 Rock8Cloud 的营销站起步模板（Postgres、S3、Bun）
+- [EmDash-Railway-Starter (Frank-WIll)](https://github.com/Frank-WIll/EmDash-Railway-Starter) - Railway starter kit from the official Node starter ([deploy](https://railway.com/deploy/emdash-starter)) / 基于官方 Node 起步模板的 Railway 脚手架
 
 PRs welcome / 欢迎投稿.
 
