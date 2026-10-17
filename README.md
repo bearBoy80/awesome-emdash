@@ -78,6 +78,8 @@ PRs welcome / 欢迎投稿 — see [PLUGINS.md](./PLUGINS.md) and [CONTRIBUTING.
 - [emdash-sync-cli](https://github.com/Sena/emdash-sync-cli) - Pull production D1 + R2 into local Wrangler for EmDash development / 把线上 D1/R2 同步到本地 Wrangler
 - [app-composer](https://github.com/loftwah/app-composer) - Agent-operated mini-app composer on EmDash + Cloudflare Workers ([live](https://composer.loftwah.com)) / 基于 EmDash + Workers 的 Agent 小应用编排平台
 - [emdash-kit](https://github.com/xPonential-Labs/emdash-kit) - Shared Worker entry, Astro config, and content tools for Cloudflare Workers Free sites / 面向 Workers Free 站点的共享 Worker 入口、Astro 配置与内容工具
+- [emdash-panel](https://github.com/bitdoze/emdash-panel) - Single-VPS hosting panel for EmDash sites ([panel.emdashhq.com](https://panel.emdashhq.com)) / 单机 VPS 上的 EmDash 站点托管面板
+- [emdash-baseline](https://github.com/Vermeulen-Solutions/emdash-baseline) - Visual-first Astro toolkit: Dev HUD, component calibration, schema safeguards / 可视化 Astro 工具包：Dev HUD、组件校准、schema 护栏
 
 PRs welcome / 欢迎投稿.
 
@@ -187,6 +189,11 @@ Public sites built on EmDash. Source to browse — **not** reusable starters (th
 - [wadaonline-emdash](https://github.com/justinloffler/wadaonline-emdash) - Western Area Darts Association site on EmDash (Node + SQLite) / 西区飞镖协会站点
 - [ankur-emdash](https://github.com/Webbound-dev/ankur-emdash) - Ankur Salt production UI on EmDash + Cloudflare (D1/R2) / Ankur Salt 生产站（沿用原 UI）
 - [vc-emdash-sample](https://github.com/yto/vc-emdash-sample) - Vibecoding EmDash tutorial reference blog ([live](https://emdash-sample.vibecodingnotes.com)) / Vibecoding 教程参考博客
+- [Fieldnote (Wbcom showcase)](https://github.com/wbcomdesigns/emdash-showcase) - Demo blog running Listora, KnowX, Polls, Reviews, and Roadmap / Wbcom 插件展示博客
+- [fake-store](https://github.com/qasimfida/fake-store) - FakeStoreAPI shop + EmDash-managed blog (Astro + React) / FakeStoreAPI 商店 + EmDash 博客
+- [WarpCart](https://github.com/agent19music/astro-emdash) - WhatsApp-commerce marketing site on Astro + EmDash / WhatsApp 电商营销站
+- [jbolabs/sites](https://github.com/jbolabs/sites) - Agency client marketing sites: Astro + EmDash on Cloudflare, deployed with Alchemy / 机构客户营销站（Astro + EmDash + Alchemy）
+- [platform-web-emdash](https://github.com/ChungG02/platform-web-emdash-candidate-v1) - IntelCloud reference platform on EmDash + Astro + Cloudflare / IntelCloud 参考平台（EmDash + Astro + Cloudflare）
 
 PRs welcome / 欢迎投稿.
 

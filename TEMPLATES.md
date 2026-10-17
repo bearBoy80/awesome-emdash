@@ -139,6 +139,7 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [theme-minimal (awesomeem)](https://github.com/awesomeem/theme-minimal) - Minimal HTML theme for EmDash content (Hono/Workers) / 面向 EmDash 内容的极简 HTML 主题（Hono / Workers） · ★0 · forks 0 · updated 2026-04-14
 - [emdash-theme-customizer](https://github.com/pagelab/emdash-theme-customizer) - CSS-variable theme customizer starter for EmDash themes / EmDash 主题 CSS 变量定制起步模板 · ★0 · forks 0 · updated 2026-04-07
 - [emdash-theme-omarchy](https://github.com/siygle/emdash-theme-omarchy) - Omarchy-style blog theme: Hyprland tiling windows, Waybar, palette switcher / Omarchy 风格博客主题：Hyprland 平铺窗、Waybar、配色切换 · ★0 · forks 0 · updated 2026-10-12
+- [Kexi](https://github.com/AK-103U/kexi) - Modern blog theme for Cloudflare Workers + EmDash (Astro, D1/R2) / 面向 Cloudflare + EmDash 的现代博客主题
 
 ### Deploy & Stack Starters / 部署与技术栈脚手架
 
