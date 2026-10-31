@@ -108,10 +108,12 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [Reef](https://github.com/alohapixelcom-hash/reef) - Bilingual EN/FR Astro blog theme with EmDash back office / 英/法双语博客主题（EmDash 后台） · ★13 · forks 7 · updated 2026-10-12
 - [Masthead](https://github.com/ondelva/astro-theme-masthead) - Newspaper-style news theme ([demo](https://masthead-free.ondelva.com)) / 报纸风格新闻主题 · ★6 · forks 2 · updated 2026-10-14
 - [emdash-site-blog-starter](https://github.com/WellDunDun/emdash-site-blog-starter) - AI-ready marketing + blog starter (D1/R2, search, RSS, modular blocks) / 营销站 + 博客起步模板（D1/R2、搜索、RSS、模块化区块） · ★0 · forks 0 · updated 2026-06-16
+- [emdash-blog-ja](https://github.com/okinako-chan/emdash-blog-ja) - Japanese blog template from official blog-cloudflare (copy, dates, wrap, fonts) / 面向日语的博客模板（基于官方 blog-cloudflare）
 
 ### Marketing & Landing / 营销与落地页
 
 - [awebsomestuff/emdash-template-marketing](https://github.com/awebsomestuff/emdash-template-marketing) - Conversion-focused landing page template (Cloudflare Workers) / 注重转化的落地页模板（Cloudflare Workers） · ★0 · forks 0 · updated 2026-04-02
+- [WBDS T1 (Holly)](https://github.com/Whitney-Bateson-Digital-Strategy/Template_Holly-Astro-EmDash_Websites) - Client-editable marketing site: services, menus, blog, testimonials ([demo](https://template-holly-astro-em-dash-websit.vercel.app)) / 客户可自助编辑的营销站模板
 
 ### Portfolio & Personal / 作品集与个人站
 
@@ -122,6 +124,7 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [minastro](https://github.com/frankievalentine/minastro) - EmDash-first personal-site template (Astro + Cloudflare Workers) ([demo](https://minastro.pages.dev)) / EmDash 优先的个人站模板（Astro + Cloudflare Workers） · ★2 · forks 0 · updated 2026-10-26
 - [emdash-theme-persona-bio](https://github.com/ahmetcigsar/emdash-theme-persona-bio) - Personal profile + blog theme for EmDash + Astro / 个人简介与博客主题 · ★4 · forks 1 · updated 2026-09-21
 - [Biolink](https://github.com/bitdoze/emdash-biolink-theme) - Link-in-bio theme: profile, socials, reorderable blocks, per-page theming (Workers + D1/R2) / Link-in-bio 主题：主页、社交、可排序区块、每页主题 · ★0 · forks 0 · updated 2026-10-01
+- [blogfolio](https://github.com/riipandi/blogfolio) - EmDash Blogfolio: visual portfolio + blog (sandbox-workerd) / EmDash 作品集 + 博客模板
 
 ### Commerce & Business / 电商与商业
 
@@ -151,6 +154,8 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [emdash-railway](https://github.com/aimranov27/emdash-railway) - Railway one-click EmDash blog on Postgres + persistent media volume / Railway 一键部署 EmDash 博客（Postgres + 持久化媒体卷） · ★0 · forks 0 · updated 2026-10-13
 - [EmDash Blueprint (Rock8Cloud)](https://github.com/rock8-cloud/astro-emdash-marketing-page) - Marketing-site starter for Rock8Cloud (Postgres, S3, Bun Dockerfile) / 面向 Rock8Cloud 的营销站起步模板（Postgres、S3、Bun） · ★0 · forks 0 · updated 2026-10-13
 - [EmDash-Railway-Starter (Frank-WIll)](https://github.com/Frank-WIll/EmDash-Railway-Starter) - Railway starter kit from the official Node starter ([deploy](https://railway.com/deploy/emdash-starter)) / 基于官方 Node 起步模板的 Railway 脚手架 · ★0 · forks 0 · updated 2026-04-02
+- [astro-emdash-local-workshop](https://github.com/pwlee-xyz/astro-emdash-local-workshop) - Local-first Astro + EmDash portfolio workshop (Node + SQLite, no Cloudflare) / 本机作品集工作坊 starter（Node + SQLite，无需 Cloudflare）
+- [Baseline starter](https://github.com/Vermeulen-Solutions/baseline) - Agent-first Astro + EmDash starter: design tokens, component quarantine, brief-to-launch / Agent 优先起步模板：设计 token、组件隔离、从 brief 到上线
 
 PRs welcome / 欢迎投稿.
 

@@ -30,6 +30,7 @@ EmDash is a full-stack TypeScript CMS that aims to be the spiritual successor to
 - [wp-emdash](https://github.com/emdash-cms/wp-emdash) - Official plugins to help transition from WordPress to EmDash / 官方 WordPress → EmDash 迁移辅助插件
 - [EmDash Build](https://github.com/emdash-cms/emdash-build) - Chat-based AI site builder for editable EmDash sites ([demo](https://build.emdashcms.com/)) / 对话式 AI 建站（生成可编辑的 EmDash 站点）
 - [emdash-cms/skills](https://github.com/emdash-cms/skills) - Official agent skills: sites, plugins, CLI, WordPress ports (`npx skills add emdash-cms/skills`) / 官方 Agent 技能：建站、插件、CLI、WordPress 移植
+- [emdash-cms/emdash-bot](https://github.com/emdash-cms/emdash-bot) - Official issue/PR author bot on Pi Durable + Cloudflare Durable Objects / 官方 Issue/PR 写作机器人（Pi Durable + Durable Objects）
 
 ## Templates / 模板
 
@@ -80,6 +81,10 @@ PRs welcome / 欢迎投稿 — see [PLUGINS.md](./PLUGINS.md) and [CONTRIBUTING.
 - [emdash-kit](https://github.com/xPonential-Labs/emdash-kit) - Shared Worker entry, Astro config, and content tools for Cloudflare Workers Free sites / 面向 Workers Free 站点的共享 Worker 入口、Astro 配置与内容工具
 - [emdash-panel](https://github.com/bitdoze/emdash-panel) - Single-VPS hosting panel for EmDash sites ([panel.emdashhq.com](https://panel.emdashhq.com)) / 单机 VPS 上的 EmDash 站点托管面板
 - [emdash-baseline](https://github.com/Vermeulen-Solutions/emdash-baseline) - Visual-first Astro toolkit: Dev HUD, component calibration, schema safeguards / 可视化 Astro 工具包：Dev HUD、组件校准、schema 护栏
+- [Post To EmDash](https://github.com/RieTamura/Post-To-EmDash) - Obsidian plugin: publish notes to EmDash as posts (images, tags, categories) / Obsidian 插件：把笔记发到 EmDash（含图、标签、分类）
+- [LYNX](https://github.com/realmag777/lynx-emdash) - Spreadsheet bulk editor + MCP tools for EmDash entries / 表格式批量编辑 + MCP（面向 EmDash 条目）
+- [books](https://github.com/dinkuskit/books) - Bookkeeping, reconciliation, and tax-readiness ledger for EmDash sites (`@dinkuskit/books`) / EmDash 站点账本：对账与报税准备
+- [emdash-easy-setup](https://github.com/kwonq10/emdash-easy-setup) - Claude Code skill: local EmDash on Windows (PowerShell, no public deploy) / Claude Code Skill：在 Windows 本机安装 EmDash
 
 PRs welcome / 欢迎投稿.
 
@@ -91,6 +96,7 @@ PRs welcome / 欢迎投稿.
 - [emdash-tutorial](https://github.com/maxali/emdash-tutorial) - Editorial developer tutorial for EmDash CMS (Cloudflare Workers) / EmDash 开发者教程站（Cloudflare Workers）
 - [tzu-chi-vibe-coding-emdash](https://github.com/phoenix581228/tzu-chi-vibe-coding-emdash) - University Vibe Coding teaching pack: demo site, student starter, plugin example, and skills / 大学 Vibe Coding 教学包：演示站、学员 starter、插件示例与 skills
 - [HiEmdash Docs](https://github.com/web-casa/emdash-docs) - Community multilingual docs: onboarding, FAQ, translations ([live](https://docs.hiemdash.com)) / 社区多语言文档：入门、FAQ、翻译
+- [emdash-cms-mcp-ai-helper](https://github.com/probir-sarkar/emdash-cms-mcp-ai-helper) - Field notes for driving an EmDash site over MCP (procedures and failure modes) / 用 MCP 操作 EmDash 的实操笔记（流程与踩坑）
 
 PRs welcome / 欢迎投稿.
 
@@ -194,6 +200,17 @@ Public sites built on EmDash. Source to browse — **not** reusable starters (th
 - [WarpCart](https://github.com/agent19music/astro-emdash) - WhatsApp-commerce marketing site on Astro + EmDash / WhatsApp 电商营销站
 - [jbolabs/sites](https://github.com/jbolabs/sites) - Agency client marketing sites: Astro + EmDash on Cloudflare, deployed with Alchemy / 机构客户营销站（Astro + EmDash + Alchemy）
 - [platform-web-emdash](https://github.com/ChungG02/platform-web-emdash-candidate-v1) - IntelCloud reference platform on EmDash + Astro + Cloudflare / IntelCloud 参考平台（EmDash + Astro + Cloudflare）
+- [MalaysianGeek](https://github.com/NexzoDev/malaysiangeek-blog) - Malaysian tech magazine blog on EmDash + Cloudflare ([live](https://malaysiangeek.com/)) / 马来西亚科技杂志博客
+- [emdash-blog (询盘自由网)](https://github.com/yansir-repo/emdash-blog) - Next.js → EmDash blog (Tailwind Spotlight, Workers/D1/R2) ([live](https://www.xunpanziyou.com)) / 从 Next.js 迁入的个人博客
+- [devk-software](https://github.com/Yusufkotavom/devk-software) - Kotacom software-house site on EmDash + Astro ([live](https://devk.my.id/)) / Kotacom 软件工程站
+- [Ghibu](https://github.com/paulstan1984/ghibu-new-website) - Liceul Teoretic „Onisifor Ghibu” school site (RO pages, Node + SQLite) / 罗马尼亚学校站（Astro + EmDash）
+- [portfolio-blog (serhii)](https://github.com/serhii-chernenko/portfolio-blog) - Bilingual EN/UK blog on EmDash + Cloudflare ([live](https://serhiichernenko.com/blog)) / 英/乌双语博客
+- [reinforce-moe-emdash](https://github.com/ReinforceZwei/reinforce-moe-emdash) - Reinforce.moe rebuilt on EmDash + Node + R2 ([live](https://reinforce.moe)) / Reinforce.moe 重建站
+- [blog-emdash (tinlehoang)](https://github.com/talabadao/blog-emdash) - SEO/GEO personal hub on EmDash + Cloudflare ([live](https://tinlehoang.info.vn)) / SEO/GEO 个人站
+- [EmDash CMS + Freeform (Solspace)](https://github.com/solspace/emdash-cms) - Public Freeform reference site: forms, AI chat intake, submissions / Solspace Freeform 参考演示站
+- [treehater](https://github.com/mlaaker/treehater-emdash) - House of Laaker blog on EmDash + Cloudflare ([live](https://www.treehater.com)) / House of Laaker 博客
+- [crwd-emdash](https://github.com/welbinator/crwd-emdash) - Cedar Rapids Web Design site on EmDash + Cloudflare ([live](https://cedarrapidswebdesign.com)) / Cedar Rapids Web Design 站点
+- [ソルジオ (solgeo)](https://github.com/solgeo3960/emdash-solgeo-site) - solgeo.co.jp WordPress → EmDash corporate site (Workers + D1/R2, forms) / solgeo.co.jp 企业站（WordPress 迁入）
 
 PRs welcome / 欢迎投稿.
 
