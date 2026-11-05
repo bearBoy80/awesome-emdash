@@ -71,6 +71,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [Schema Identity](https://github.com/monprez/emdash-schema-identity) - Connected schema.org graph: people, org, credentials, and authorship (`schema-identity`) / 结构化数据图谱：人物、组织、资质与作者 · ★0 · forks 0 · updated 2026-10-16
 - [emdash-umami](https://github.com/tdhftw/emdash-umami) - Self-hosted Umami analytics in admin: dashboard page, widget, and guided setup (`@tdhftw/emdash-plugin-umami`) / 后台内嵌自托管 Umami：分析页、小组件与向导 · ★0 · forks 0 · updated 2026-10-28
 - [HitKeep for EmDash](https://github.com/HitKeep/hitkeep-emdash) - Native settings + `EmDashHead` fragment for the HitKeep tracker (`@hitkeep/emdash`) / HitKeep 追踪器的原生设置与页面片段 · ★0 · forks 0 · updated 2026-10-24
+- [emdash-plugin-myog](https://github.com/MyOG-social/emdash-plugin-myog) - Adds a MyOG.social `og:image` to published pages that have no image of their own; needs a paid MyOG plan or trial (`@myog.social/myog`, [registry](https://plugins.emdashcms.com/plugins/@myog.social/myog)) · ★0 · forks 0 · updated 2026-11-01
 
 ### Email & Forms / 邮件与表单
 
