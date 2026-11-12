@@ -71,6 +71,9 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [Schema Identity](https://github.com/monprez/emdash-schema-identity) - Connected schema.org graph: people, org, credentials, and authorship (`schema-identity`) / 结构化数据图谱：人物、组织、资质与作者 · ★0 · forks 0 · updated 2026-10-16
 - [emdash-umami](https://github.com/tdhftw/emdash-umami) - Self-hosted Umami analytics in admin: dashboard page, widget, and guided setup (`@tdhftw/emdash-plugin-umami`) / 后台内嵌自托管 Umami：分析页、小组件与向导 · ★0 · forks 0 · updated 2026-10-28
 - [HitKeep for EmDash](https://github.com/HitKeep/hitkeep-emdash) - Native settings + `EmDashHead` fragment for the HitKeep tracker (`@hitkeep/emdash`) / HitKeep 追踪器的原生设置与页面片段 · ★0 · forks 0 · updated 2026-10-24
+- [SEO & Schema Markup](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-seo) - Linked JSON-LD graph per page, Google preview, noindex rules, pages-to-fix checks and a WordPress redirects import (`@moorage/plugin-seo`, [registry](https://plugins.emdashcms.com/plugins/@moorage.dev/seo))
+- [Analytics & Cookies](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-analytics) - GA4, GTM, Meta Pixel, Clarity, LinkedIn, TikTok, Plausible and Umami by ID, held back by a cookie banner (seven languages, Consent Mode v2) until the visitor agrees (`@moorage/plugin-analytics`)
+- [Site Health & Broken Links](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-site-health) - Broken link checker for pages, menus and outbound links, with email alerts and a setup checklist (`@moorage/plugin-site-health`, [registry](https://plugins.emdashcms.com/plugins/@moorage.dev/site-health))
 
 ### Email & Forms / 邮件与表单
 
@@ -115,6 +118,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-light-smtp](https://github.com/apsulis/emdash-light-smtp) - Hardened SMTP provider for self-hosted Node EmDash (`@apsulis/emdash-light-smtp`) / 自托管 Node 版硬化 SMTP 发信 · ★0 · forks 0 · updated 2026-10-17
 - [emdash-plugin-fastmail](https://github.com/govi218/emdash-plugin-fastmail) - Send EmDash mail through Fastmail JMAP (HTTPS, Workers-safe) / 经 Fastmail JMAP 发信（纯 HTTPS，适配 Workers） · ★0 · forks 1 · updated 2026-10-30
 - [emdash-resend (creimer808)](https://github.com/creimer808/emdash-resend) - Resend provider configured from admin (magic links, invites, recovery, plugin mail) / Resend 邮件提供商：后台配置，魔法链接、邀请、找回与插件发信 · ★0 · forks 0 · updated 2026-10-29
+- [Lead Delivery](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-lead-delivery) - Sends official Forms enquiries to email, HubSpot, Slack, Discord or a signed webhook (Zapier, Make, n8n), with a delivery log, retries and failure alerts (`@moorage/plugin-lead-delivery`, [registry](https://plugins.emdashcms.com/plugins/@moorage.dev/lead-delivery))
 
 ### Commerce / 电商
 
@@ -174,6 +178,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [Bluesky Feed](https://github.com/RieTamura/Bluesky-To-EmDash) - Sync your Bluesky posts into an EmDash collection (`bluesky-feed`) / 把 Bluesky 帖子同步进 EmDash 集合 · ★0 · forks 0 · updated 2026-11-05
 - [smarter-announcement-bar (patel-dishant)](https://github.com/patel-dishant/emdash-smarter-announcement-bar) - Sandboxed site-wide announcement bar / 沙箱全站公告栏 · ★0 · forks 0 · updated 2026-11-05
 - [BulkPublish](https://github.com/azeemkafridi/emdash-bulkpublish) - Share posts to social accounts on publish (`emdash-plugin-bulkpublish`) / 发布时把文章同步到社交账号 · ★0 · forks 0 · updated 2026-10-17
+- [Popups](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-popups) - Top bars, slide-ins, popups and in-page boxes using an official Forms form, at most one per visit, waiting for the cookie banner (`@moorage/plugin-popups`)
 
 ### Media & Galleries / 媒体与图库
 
@@ -242,6 +247,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [Kerna](https://github.com/kodlabstdio/kerna) - Agent-first page builder: compose pages from a design system, reviewer approves (early) / Agent 优先页面构建器（设计系统 + 审核，早期）
 - [EmDash Featured Post](https://github.com/joyce5438/emdash-Featured-Post) - Pick homepage featured posts from the post editor (`emdash-featured-post`) / 在文章编辑器中选择首页精选文章 · ★1 · forks 0 · updated 2026-11-04
 - [emdash-plugin-site-blocks](https://github.com/Ariadne-Ops/emdash-plugin-site-blocks) - Drupal-style region blocks with show/hide path rules / Drupal 风格区域区块（路径显示/隐藏规则） · ★0 · forks 0 · updated 2026-11-01
+- [Content Approval](https://github.com/moorage-dev/moorage/tree/main/packages/plugin-approvals) - Publish becomes a request a second person approves or sends back with a note, including changes made over MCP (`@moorage/plugin-approvals`, [registry](https://plugins.emdashcms.com/plugins/@moorage.dev/approvals))
 
 ### Accessibility, Privacy & Security / 无障碍、隐私与安全
 
