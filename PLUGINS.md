@@ -71,6 +71,13 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [Schema Identity](https://github.com/monprez/emdash-schema-identity) - Connected schema.org graph: people, org, credentials, and authorship (`schema-identity`) / 结构化数据图谱：人物、组织、资质与作者 · ★0 · forks 0 · updated 2026-10-16
 - [emdash-umami](https://github.com/tdhftw/emdash-umami) - Self-hosted Umami analytics in admin: dashboard page, widget, and guided setup (`@tdhftw/emdash-plugin-umami`) / 后台内嵌自托管 Umami：分析页、小组件与向导
 - [HitKeep for EmDash](https://github.com/HitKeep/hitkeep-emdash) - Native settings + `EmDashHead` fragment for the HitKeep tracker (`@hitkeep/emdash`) / HitKeep 追踪器的原生设置与页面片段
+- [Cloudflare Web Analytics (Chiji1108)](https://github.com/Chiji1108/emdash-plugin-cloudflare-analytics) - Lightweight CF Web Analytics in admin, Workers Free (`@chiji1108/emdash-plugin-cloudflare-analytics`) / 后台内嵌 Cloudflare Web Analytics（Workers Free）
+- [Aranx](https://github.com/aranx-ai/emdash-plugin) - Import Aranx SEO articles as EmDash entries (`aranx`) / 把 Aranx SEO 文章导入为条目
+- [Outrank](https://github.com/Outrank-SAS/emdash-plugin-outrank) - Publish Outrank SEO articles into EmDash via webhook (`outrank`) / 经 webhook 把 Outrank 文章导入 EmDash
+- [QQQ AI Visibility](https://github.com/meelis545/qqq-emdash-ai-visibility) - Check whether GPTBot and other AI crawlers can read the site (`ai-visibility`) / 检查 ChatGPT/Gemini 等爬虫能否抓取站点
+- [MyOG](https://github.com/MyOG-social/emdash-plugin-myog) - MyOG.social og:image / twitter:image for pages without an image / 无图页面自动生成 OG 图
+- [emdash-ai-helper](https://github.com/gvonbergen/emdash-ai-helper) - Write a meta description on publish when missing / 发布时补写缺失的 meta description
+- [Agent Ready](https://github.com/WorkPodsAgents/emdash-agent-ready) - Check entries for search engines, AI answers, and AI agents (`agent-ready`) / 检查条目是否适合搜索引擎与 AI
 
 ### Email & Forms / 邮件与表单
 
@@ -115,6 +122,11 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-light-smtp](https://github.com/apsulis/emdash-light-smtp) - Hardened SMTP provider for self-hosted Node EmDash (`@apsulis/emdash-light-smtp`) / 自托管 Node 版硬化 SMTP 发信 · ★0 · forks 0 · updated 2026-10-17
 - [emdash-plugin-fastmail](https://github.com/govi218/emdash-plugin-fastmail) - Send EmDash mail through Fastmail JMAP (HTTPS, Workers-safe) / 经 Fastmail JMAP 发信（纯 HTTPS，适配 Workers）
 - [emdash-resend (creimer808)](https://github.com/creimer808/emdash-resend) - Resend provider configured from admin (magic links, invites, recovery, plugin mail) / Resend 邮件提供商：后台配置，魔法链接、邀请、找回与插件发信
+- [MarleyFetch](https://github.com/marleyfetch/emdash-plugin) - Deliver site email through MarleyFetch SMTP (`marleyfetch-email`) / 经 MarleyFetch 用自有 SMTP 发信
+- [Cooper Email](https://github.com/f-o-x11/emdash-plugin-cooper-email) - Send site email through a Cooper Email inbox (`cooper-email`) / 经 Cooper Email 收件箱发信
+- [emdash-plugin-contact-form (murai-sketch)](https://github.com/murai-sketch/emdash-plugin-contact-form) - Sandboxed contact form: inbox, anti-spam, notify, confirm, retention / 沙箱联系表单：收件、反垃圾、通知、确认与留存
+- [ChatEase Contact Form](https://github.com/bagooon/emdash-chatease-contact-form) - Contact form that posts to a ChatEase board (`@bagooon/chatease-emdash-form`) / 提交到 ChatEase 聊天板的联系表单
+- [emdash-newsletter](https://github.com/ryanedick/emdash-newsletter) - beehiiv-style newsletters: list, campaigns, segments, A/B, SMTP/Resend/SES / 自托管 newsletter：订阅、活动、分段、A/B 与多发信渠道
 
 ### Commerce / 电商
 
@@ -146,6 +158,10 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-crypto-payment-gateway](https://github.com/Coldtill/emdash-crypto-payment-gateway) - Coldtill self-hosted crypto checkout: USDT, USDC, BTC, ETH, SOL and 200+ coins (`@coldtill/emdash`) / Coldtill 自托管加密收款（USDT/USDC/BTC 等）
 - [dashcommerce-crypto-payment-gateway](https://github.com/Coldtill/dashcommerce-crypto-payment-gateway) - Coldtill crypto provider for DashCommerce (`@coldtill/dashcommerce`) / DashCommerce 的 Coldtill 加密支付
 - [emdash-plugin-zarinpal](https://github.com/taleghanidev/emdash-plugin-zarinpal) - Zarinpal Rial/Toman payments on Workers and Node / Zarinpal 里亚尔/土曼支付（Workers 与 Node）
+- [emdash-plugin-shopify](https://github.com/LOSRC/emdash-plugin-shopify) - Worker-owned Shopify cart (no JS) plus product-sync admin (`@losrc/emdash-plugin-shopify`) / Shopify：Worker 购物车（无需 JS）与产品同步
+- [emdash-stripe (welbinator)](https://github.com/welbinator/emdash-stripe) - Stripe-powered ecommerce plugin / Stripe 电商插件
+- [RedeemID](https://github.com/webmultipliers/redeemid-emdash) - Shopify storefront, cart, checkout, accounts, and paywalls (`@redeemid/emdash`) / Shopify 店面、结账、会员与付费墙
+- [emdash-memberships](https://github.com/ryanedick/emdash-membership) - Magic-link members, Stripe plans, trials, coupons, revenue reports / 会员：魔法链接、Stripe 套餐、试用、优惠券与收入报表
 
 ### Engagement & Social / 互动与社交
 
@@ -174,6 +190,8 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [Bluesky Feed](https://github.com/RieTamura/Bluesky-To-EmDash) - Sync your Bluesky posts into an EmDash collection (`bluesky-feed`) / 把 Bluesky 帖子同步进 EmDash 集合
 - [smarter-announcement-bar (patel-dishant)](https://github.com/patel-dishant/emdash-smarter-announcement-bar) - Sandboxed site-wide announcement bar / 沙箱全站公告栏
 - [BulkPublish](https://github.com/azeemkafridi/emdash-bulkpublish) - Share posts to social accounts on publish (`emdash-plugin-bulkpublish`) / 发布时把文章同步到社交账号
+- [site-notice](https://github.com/raphaelApard/emdash-plugin-site-notice) - Scheduled Markdown announcement banner, admin + MCP (`emdash-plugin-site-notice`) / 可定时 Markdown 全站公告栏
+- [EmDash To Bluesky](https://github.com/RieTamura/EmDash-To-Bluesky) - Share a post on Bluesky once when first published (`bluesky-share`) / 首次发布时同步到 Bluesky
 
 ### Media & Galleries / 媒体与图库
 
@@ -197,6 +215,10 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [Auto Thumbnail](https://github.com/RieTamura/Auto-Thumbnail) - Thumbnail design for posts without an image (drawn by Post To EmDash) (`auto-thumbnail`) / 无图文章的缩略图设计（需 Post To EmDash 绘制）
 - [emdash-popcase](https://github.com/harryxu/emdash-popcase) - Image/video lightbox with zoom, captions, EXIF, and YouTube ([demo](https://my-emdash-site.harryzhxu.workers.dev/posts/popcase-demo)) / 图片/视频灯箱：缩放、说明、EXIF、YouTube
 - [emdash-plugin-r2 (azydeco)](https://github.com/azydeco/emdash-plugin-r2) - Sandboxed access to images in a Cloudflare R2 bucket (`@azydeco/emdash_plugin_r2_asset_access`) / 沙箱读取 Cloudflare R2 图片
+- [Revid](https://github.com/revid-ai/emdash-plugin-revid) - Turn posts into short videos for TikTok / Reels / Shorts (`revid`) / 把文章做成短视频
+- [All SVG Icons](https://github.com/Amitind/emdash-allsvgicons) - Search 416k+ SVG icons and fetch SVG server-side (`emdash-plugin-allsvgicons`) / 搜索 41 万+ SVG 图标并服务端拉取
+- [emdash-media-editor](https://github.com/joyce5438/emdash-media-editor) - Edit image alt text and captions from one admin page / 后台集中编辑图片 alt 与说明
+- [emdash-images](https://github.com/NimitzUA/emdash-images) - Server-side image pipeline: Astro service, Picture/PT image/gallery, cache warm-up (`@nimitzua/emdash-images`) / 服务端图片管线（Astro、Picture、缓存预热）
 
 ### Content, Fields & Editor / 内容、字段与编辑器
 
@@ -242,6 +264,13 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [Kerna](https://github.com/kodlabstdio/kerna) - Agent-first page builder: compose pages from a design system, reviewer approves (early) / Agent 优先页面构建器（设计系统 + 审核，早期）
 - [EmDash Featured Post](https://github.com/joyce5438/emdash-Featured-Post) - Pick homepage featured posts from the post editor (`emdash-featured-post`) / 在文章编辑器中选择首页精选文章
 - [emdash-plugin-site-blocks](https://github.com/Ariadne-Ops/emdash-plugin-site-blocks) - Drupal-style region blocks with show/hide path rules / Drupal 风格区域区块（路径显示/隐藏规则）
+- [emdash-plugin-page-builder (jimiryquai)](https://github.com/jimiryquai/emdash-plugin-page-builder) - Versioned block types and Astro components on EmDash fields / 版本化区块类型与 Astro 组件
+- [Folio](https://github.com/couponzania/emdash-folio) - 13 editor blocks and 13 chart types as accessible HTML (`emdash-folio`) / 13 种文章区块与图表（服务端 HTML）
+- [emdash-product-box](https://github.com/gatilab/emdash-product-box) - Affiliate product box + Product JSON-LD, optional Amazon pricing (`@gatilab/emdash-product-box`) / 联盟商品框与 JSON-LD（可选 Amazon 价格）
+- [emdash-footnotes](https://github.com/gatilab/emdash-footnotes) - Portable Text / `[fn]` footnotes with hover previews (`@gatilab/emdash-footnotes`) / 脚注：上标、悬停预览与文末列表
+- [emdash-randomizer](https://github.com/alexlmiller/emdash-randomizer) - Uncached `/random` redirects to a published post (`emdash-plugin-randomizer`) / 随机跳转到已发布文章
+- [Narkis headshot photographers](https://github.com/SignedAdam/emdash-plugin-narkis) - Insert local headshot photographers from the Narkis directory (`headshot-photographers`) / 从 Narkis 目录插入本地头像摄影师
+- [Motoyomi](https://github.com/LLL-development/motoyomi) - Local Japanese internal-link suggestions in the editor (WP + EmDash) / 日语内部链接候选（本地，不外发正文）
 
 ### Accessibility, Privacy & Security / 无障碍、隐私与安全
 
@@ -259,6 +288,7 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-crowdsec](https://github.com/shanelord01/emdash-crowdsec) - CrowdSec LAPI alerts, bans, and top threats in EmDash admin / 后台展示 CrowdSec LAPI 告警、封禁与高威胁 · ★0 · forks 0 · updated 2026-10-16
 - [Accessibility Toolkit](https://github.com/susheel250/accessibility-toolkit) - WCAG 2.2 AA / ADA visitor widget: contrast, text size, motion, profiles / 访客无障碍工具条（对比度、字号、动效、预设）
 - [emdash-nospam](https://github.com/apsulis/emdash-nospam) - CAPTCHA-free form anti-spam: timing token, honeypot, per-IP rate limit (`@apsulis/emdash-nospam`) / 无验证码表单反垃圾（时序令牌、蜜罐、按 IP 限流）
+- [site-gate](https://github.com/molyinc/emdash-plugin-site-gate) - Site-wide password lock or server-side 503 maintenance gate / 全站密码锁或服务端 503 维护门禁
 
 ### Internationalization / 国际化
 
@@ -298,6 +328,13 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [emdash-header-footer-code (desidashlab)](https://github.com/desidashlab/emdash-header-footer-code) - Inject GA/GTM/pixels or custom head/body code from admin / 从后台向 head/body 注入 GA、GTM、像素或自定义代码 · ★0 · forks 0 · updated 2026-10-15
 - [RSS Feed](https://github.com/RieTamura/RSSFeed-To-EmDash) - Copy RSS/Atom items (YouTube, note, Zenn, Hatena) into a collection (`rss-feed`) / 把 RSS/Atom（YouTube、note、Zenn、Hatena）同步进集合
 - [Simple Code Snippets (epictum)](https://github.com/epictum/emdash-plugin-simple-code-snippets) - One JS/CSS/HTML snippet in `<head>` or before `</body>` from admin / 后台向 head/body 注入一段 JS/CSS/HTML
+- [publish-notify](https://github.com/okinako-chan/emdash-plugin-publish-notify) - Discord webhook on publish, update, or unpublish / 发布/更新/取消发布时发 Discord
+- [Loggie](https://github.com/unblocklabs-ai/loggie-emdash-plugin) - Read-only Loggie connections and GitHub release notes in admin / 后台只读查看 Loggie 连接与 GitHub Release
+- [emdash-link-manager](https://github.com/gatilab/emdash-link-manager) - Branded `/go/` short links, geo targets, click stats (`@gatilab/emdash-link-manager`) / 品牌短链：跳转、分国家、点击统计
+- [emdash-scripts-manager](https://github.com/gatilab/emdash-scripts-manager) - Per-entry and site-wide CSS/JS/head/footer, admins only (`@gatilab/emdash-scripts-manager`) / 按条目与全站注入 CSS/JS/HTML（仅管理员）
+- [Notion To EmDash](https://github.com/RieTamura/Notion-To-EmDash) - Publish Notion database pages as posts (`notion-to-emdash`) / 把 Notion 数据库页面发成文章
+- [deed.page](https://github.com/f-o-x11/emdash-plugin-deed-page) - Publish any post or page to a permanent `*.deed.page` URL / 把条目发布到永久 deed.page 地址
+- [modo-liga](https://github.com/noelserdna/emdash-modo-liga) - Fail over Cloudflare sites in Spain during LaLiga blocks (`emdash-modo-liga`) / 西甲封锁期间把站点切到 Netlify 镜像
 
 ### Learning & Verticals / 学习与垂直领域
 
@@ -313,6 +350,10 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [Listora](https://github.com/wbcomdesigns/emdash-listora) - Directory / listings engine with Block Kit admin (`@wbcomdesigns/listora`) / 目录/列表引擎（Block Kit 后台） · ★0 · forks 0 · updated 2026-10-20
 - [KnowX](https://github.com/wbcomdesigns/emdash-knowx) - Searchable knowledge base with article feedback and search reports (`@wbcomdesigns/emdash-knowx`) / 可搜索知识库：文章反馈与检索报表 · ★0 · forks 0 · updated 2026-10-20
 - [Readable Resume](https://github.com/supertj/emdash-readable-resume) - Publish a Markdown resume as a Pages collection entry (`readable-resume`) / 把 Markdown 简历发布为页面集合条目
+- [API Indonesia](https://github.com/khmuhtadin/emdash-plugin-api-indonesia) - Indonesian holidays and prayer times (`api-indonesia`) / 印尼节假日与祷告时间
+- [Keyboard Sizes](https://github.com/hlplanet/emdash-keyboard-sizes) - Compare keyboard sizes and desk fit (`keyboard-sizes`) / 键盘尺寸对比与桌面适配
+- [HSA Limits](https://github.com/mavericksolutions7/emdash-hsa-limits) - IRS HSA/HDHP contribution limits widget (`hsa-limits`) / IRS HSA/HDHP 限额小组件
+- [Shift Checklists](https://github.com/TenorOps/emdash-shift-checklists) - Restaurant opening/closing checklists per location (`tenorops-emdash-shift-checklists`) / 餐厅开/闭店检查表
 
 ### Auth & Identity / 认证与身份
 
@@ -322,11 +363,15 @@ Shipped in the [emdash monorepo `packages/plugins`](https://github.com/emdash-cm
 - [@hellocoop/emdash](https://github.com/hellocoop/emdash) - Hellō login + OpenID Provider Commands for account lifecycle / Hellō 登录与账号生命周期（OIDC Provider Commands） · ★0 · forks 0 · updated 2026-09-07
 - [emdash-auth-discord](https://github.com/leCielEtoile/emdash-auth-discord) - Discord OAuth login gated to a guild, with role sync / Discord OAuth 登录（限定服务器成员并同步角色） · ★0 · forks 0 · updated 2026-10-24
 - [emdash-admin-login-classic](https://github.com/marks-zyz/emdash-admin-login-classic) - WordPress-style email/password admin sign-in (passkeys still work) / WordPress 风格后台邮箱密码登录（Passkey 仍可用） · ★1 · forks 0 · updated 2026-10-22
+- [auth-atproto-subscriber](https://github.com/publicdomainrelay/auth-atproto-subscriber) - Identity-only Atmosphere/atproto login for Subscribers (`@publicdomainrelay/auth-atproto-subscriber`) / Atmosphere 仅身份登录（Subscriber） · ★1 · forks 0 · updated 2026-10-22
 
 ### Admin UI / 后台界面
 
 - [emdash-admin-theme-classic](https://github.com/marks-zyz/emdash-admin-theme-classic) - wp-admin look for the EmDash admin panel (CSS tokens, no core patch) / 后台 wp-admin 风格主题（纯 CSS，不改核心） · ★0 · forks 0 · updated 2026-10-17
 - [emdash-admin-tools](https://github.com/vcode-sh/emdash-admin-tools) - Modular native admin tools, starting with Empty Trash / 模块化原生后台工具（先提供清空回收站）
+- [emdash-updater](https://github.com/swissky/emdash-updater) - One-click EmDash update from admin, with undo / 后台一键更新 EmDash（可撤销）
+- [pi-durable](https://github.com/dinkuskit/pi-durable) - Serverless Pi Durable agent beside the EmDash site (`@dinkuskit/pi-durable`) / 在站点旁跑 Pi Durable Agent
+- [openclaw](https://github.com/dinkuskit/openclaw) - Connect OpenClaw agents to admin with Block Kit approvals (`@dinkuskit/openclaw`) / 把 OpenClaw Agent 接到后台（Block Kit 审批）
 
 ### Search / 搜索
 

@@ -85,6 +85,11 @@ PRs welcome / 欢迎投稿 — see [PLUGINS.md](./PLUGINS.md) and [CONTRIBUTING.
 - [LYNX](https://github.com/realmag777/lynx-emdash) - Spreadsheet bulk editor + MCP tools for EmDash entries / 表格式批量编辑 + MCP（面向 EmDash 条目）
 - [books](https://github.com/dinkuskit/books) - Bookkeeping, reconciliation, and tax-readiness ledger for EmDash sites (`@dinkuskit/books`) / EmDash 站点账本：对账与报税准备
 - [emdash-easy-setup](https://github.com/kwonq10/emdash-easy-setup) - Claude Code skill: local EmDash on Windows (PowerShell, no public deploy) / Claude Code Skill：在 Windows 本机安装 EmDash
+- [emdash-multisite](https://github.com/theweekendprojects/emdash-multisite) - Many EmDash sites on one Worker + one D1 (per-site tables and hostnames) / 单 Worker + 单 D1 跑多站点（分表、按域名）
+- [emdash-emit](https://github.com/aroooy/emdash-emit) - Local workspace + bidirectional sync CLI/MCP for EmDash (Workers + D1) / 本机工作区与双向同步 CLI/MCP
+- [craft-to-emdash](https://github.com/altoption/craft-to-emdash) - Convert a Craft CMS 5 project into an EmDash seed.json / 把 Craft CMS 5 项目转成 EmDash seed
+- [RedeemID Shopify redirect theme](https://github.com/webmultipliers/redeemid-emdash-shopify-redirect-theme) - Shopify theme that sends storefront traffic to the EmDash site / Shopify 主题：店面流量跳到 EmDash 站
+- [X-Logger (EmDash)](https://github.com/forbiddenshock/X-Logger-emdash-Basic) - Cron-log X posts into EmDash (D1 + R2) / 定时把 X 帖子写入 EmDash
 
 PRs welcome / 欢迎投稿.
 
@@ -97,6 +102,7 @@ PRs welcome / 欢迎投稿.
 - [tzu-chi-vibe-coding-emdash](https://github.com/phoenix581228/tzu-chi-vibe-coding-emdash) - University Vibe Coding teaching pack: demo site, student starter, plugin example, and skills / 大学 Vibe Coding 教学包：演示站、学员 starter、插件示例与 skills
 - [HiEmdash Docs](https://github.com/web-casa/emdash-docs) - Community multilingual docs: onboarding, FAQ, translations ([live](https://docs.hiemdash.com)) / 社区多语言文档：入门、FAQ、翻译
 - [emdash-cms-mcp-ai-helper](https://github.com/probir-sarkar/emdash-cms-mcp-ai-helper) - Field notes for driving an EmDash site over MCP (procedures and failure modes) / 用 MCP 操作 EmDash 的实操笔记（流程与踩坑）
+- [emdash-workshop](https://github.com/harshil1712/emdash-workshop) - CMS Conf 2026 hands-on: ship, automate, and extend EmDash / CMS Conf 2026 实操：上线、自动化与扩展
 
 PRs welcome / 欢迎投稿.
 
@@ -211,6 +217,11 @@ Public sites built on EmDash. Source to browse — **not** reusable starters (th
 - [treehater](https://github.com/mlaaker/treehater-emdash) - House of Laaker blog on EmDash + Cloudflare ([live](https://www.treehater.com)) / House of Laaker 博客
 - [crwd-emdash](https://github.com/welbinator/crwd-emdash) - Cedar Rapids Web Design site on EmDash + Cloudflare ([live](https://cedarrapidswebdesign.com)) / Cedar Rapids Web Design 站点
 - [ソルジオ (solgeo)](https://github.com/solgeo3960/emdash-solgeo-site) - solgeo.co.jp WordPress → EmDash corporate site (Workers + D1/R2, forms) / solgeo.co.jp 企业站（WordPress 迁入）
+- [quangdk.com](https://github.com/dakiquang/quangdk.com) - Personal site on Astro + EmDash + Cloudflare ([live](https://quangdk.com)) / 个人站（Workers，Lighthouse 95–100）
+- [jetsfix](https://github.com/marcusdarmstrong/jetsfix) - jetsfix.com on EmDash + Cloudflare (Ghost → EmDash) / jetsfix.com（Ghost 迁入）
+- [NewConnect](https://github.com/NewConnect-git/newconnect-site) - Newspaper-style site on EmDash + Cloudflare / 报纸风格站点（EmDash + Workers）
+- [emdash-heroui-blog](https://github.com/alfariesh/emdash-heroui-blog) - Indonesian EmDash blog + HeroUI, with a React Native reader ([live](https://emdash.alfariesh.ai.id)) / 印尼语博客（HeroUI + RN 阅读端）
+- [Vieille-Europe](https://github.com/Heliumrich/emdash-vieille-europe) - Railway journal on Astro static + EmDash ([live](https://test.vieille-europe.ch)) / 铁路手记（静态页 + EmDash）
 
 PRs welcome / 欢迎投稿.
 
@@ -221,6 +232,7 @@ PRs welcome / 欢迎投稿.
 - [Porting WordPress Themes Guide](https://docs.emdashcms.com/themes/porting-wp-themes/) - Convert PHP themes to Astro / 将主题移植为 Astro
 - [Porting WordPress Plugins Guide](https://docs.emdashcms.com/migration/porting-plugins/) - Rewrite plugins in TypeScript / 将插件改写为 TypeScript
 - [WordPress Import Wizard](https://docs.emdashcms.com/migration/from-wordpress/) - Built-in WXR / REST / WordPress.com import / 内置导入向导
+- [wordpress-to-emdash](https://github.com/SimpleThingsLtd/wordpress-to-emdash) - Agent skill / Claude Code plugin: migrate a WordPress site without dropping embeds or URLs / Agent skill：WordPress 迁入且保留嵌入与旧 URL
 
 ## Community / 社区
 
@@ -231,6 +243,7 @@ PRs welcome / 欢迎投稿.
 - [theweekendprojects/awesome-emdash](https://github.com/theweekendprojects/awesome-emdash) - Community curated list of EmDash plugins, themes, and resources / 社区维护的插件、主题与资源列表
 - [farhanmasud/awesome-emdash](https://github.com/farhanmasud/awesome-emdash) - Community curated list of EmDash plugins, themes, tools, and Astro integrations / 社区维护的插件、主题、工具与 Astro 集成列表
 - [bearBoy80/awesome-emdash](https://github.com/bearBoy80/awesome-emdash) - Community curated list of EmDash plugins, templates, and resources / 社区维护的插件、模板与资源精选列表
+- [matterandmotion/awesome-emdash](https://github.com/matterandmotion/awesome-emdash) - Community curated list of EmDash plugins, themes, tools, and Astro integrations / 社区维护的插件、主题、工具与 Astro 集成列表
 
 ## Contributing / 贡献
 
