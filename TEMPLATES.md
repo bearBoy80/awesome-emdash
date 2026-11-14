@@ -114,6 +114,7 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 
 - [awebsomestuff/emdash-template-marketing](https://github.com/awebsomestuff/emdash-template-marketing) - Conversion-focused landing page template (Cloudflare Workers) / 注重转化的落地页模板（Cloudflare Workers） · ★0 · forks 0 · updated 2026-04-02
 - [WBDS T1 (Holly)](https://github.com/Whitney-Bateson-Digital-Strategy/Template_Holly-Astro-EmDash_Websites) - Client-editable marketing site: services, menus, blog, testimonials ([demo](https://template-holly-astro-em-dash-websit.vercel.app)) / 客户可自助编辑的营销站模板 · ★0 · forks 0 · updated 2026-10-22
+- [emdash-cms-template (hyasynth)](https://github.com/hyasynth-ai/emdash-cms-template) - Cloudflare marketing site + `/blog` on one design system (D1/R2/KV) / 营销站 + 博客起步模板（同一套设计系统）
 
 ### Portfolio & Personal / 作品集与个人站
 
@@ -135,6 +136,8 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [emdash-theme-supper](https://github.com/ecropolis/emdash-theme-supper) - Restaurant theme: structured menu, hours, gallery, reservations ([demo](https://supper.superherotech.ai)) / 餐厅主题：结构化菜单、营业时间、图库、预订 · ★0 · forks 0 · updated 2026-08-27
 - [TerraSuite](https://github.com/havenswift-hosting/terrasuite-emdash) - Estate-agency template: property collection, filtered search, area pages ([demo](https://emdash.terrasuite.uk/)) / 房产中介模板：房源集合、筛选搜索、区域页 · ★1 · forks 0 · updated 2026-09-29
 - [DashCommerce starter](https://github.com/emdashCommerce/starter) - Official Astro storefront for `@dashcommerce/core` ([demo](https://demo.dashcommerce.dev)) / DashCommerce 官方店面起步模板 · ★0 · forks 0 · updated 2026-11-02
+- [ecommerce-site (summersmile)](https://github.com/summersmile1984/ecommerce-site) - Bilingual en/zh DashCommerce storefront + SSG blog templates / 双语 DashCommerce 店面 + SSG 博客模板
+- [RedeemID starter](https://github.com/webmultipliers/redeemid-emdash-starter) - Cloudflare EmDash + Shopify shop, cart, checkout, and members-only posts / EmDash + Shopify 店面起步模板（含会员内容） · ★0 · forks 0 · updated 2026-10-26
 
 ### Themes / 主题
 
@@ -143,6 +146,8 @@ Source: [emdash monorepo `templates/`](https://github.com/emdash-cms/emdash/tree
 - [emdash-theme-customizer](https://github.com/pagelab/emdash-theme-customizer) - CSS-variable theme customizer starter for EmDash themes / EmDash 主题 CSS 变量定制起步模板 · ★0 · forks 0 · updated 2026-04-07
 - [emdash-theme-omarchy](https://github.com/siygle/emdash-theme-omarchy) - Omarchy-style blog theme: Hyprland tiling windows, Waybar, palette switcher / Omarchy 风格博客主题：Hyprland 平铺窗、Waybar、配色切换 · ★0 · forks 0 · updated 2026-10-12
 - [Kexi](https://github.com/AK-103U/kexi) - Modern blog theme for Cloudflare Workers + EmDash (Astro, D1/R2) / 面向 Cloudflare + EmDash 的现代博客主题 · ★0 · forks 0 · updated 2026-10-16
+- [MyTimeline](https://github.com/RieTamura/emdash-theme-mytimeline) - Timeline theme: posts, works, Bluesky and RSS in one feed / 时间线主题：文章、作品、Bluesky 与 RSS · ★0 · forks 0 · updated 2026-10-16
+- [Quiet Pages](https://github.com/betterify/emdash-quietpages) - Magazine theme for essays and long-form, aurora hero, archive, search ([demo](https://quietpages.xocoweb.workers.dev/)) / 杂志主题：随笔/长文、aurora 头图、归档与搜索
 
 ### Deploy & Stack Starters / 部署与技术栈脚手架
 
